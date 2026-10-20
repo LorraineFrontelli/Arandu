@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<g id="20 Â· Contracapa" data-node-id="107:285">
+<rect width="1440" height="1024" fill="#DADBDD" />
+<g id="Imagem" data-node-id="107:286">
+<rect width="640" height="432" transform="translate(64 64)" fill="#9C998F" />
+<rect width="640" height="432" transform="translate(64 64)" fill="url(#pattern0_107_285)" />
+</g>
+<g id="Imagem_2" data-node-id="107:288">
+<rect width="640" height="432" transform="translate(64 512)" fill="#A60000" />
+<rect width="640" height="432" transform="translate(64 512)" fill="url(#pattern1_107_285)" />
+</g>
+<g id="Fita adesiva" data-node-id="107:290">
+<rect width="72" height="24" transform="translate(601.452 492.303) rotate(6)" fill="#F2EDE3" fill-opacity="0.85" />
+</g>
+<g id="Bloco" data-node-id="107:291">
+<rect width="608" height="112" transform="translate(768 64)" fill="white" />
+<text id="Arandu" data-node-id="107:292" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="96" font-style="italic" letter-spacing="0px" font-weight="500"><tspan x="927.688" y="147.406">Arandu</tspan></text>
+</g>
+<text id="#001" data-node-id="107:293" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="32" letter-spacing="0px" font-weight="800"><tspan x="768" y="244.3">#001</tspan></text>
+<g id="Bloco_2" data-node-id="107:294">
+<rect width="480" height="112" transform="translate(896 176)" fill="#A60000" />
+<text id="REVISTA" data-node-id="107:295" fill="white" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="96" letter-spacing="0px" font-weight="900"><tspan x="985.734" y="269.9">REVISTA</tspan></text>
+</g>
+<text id="Lorem ipsum dolor sit amet, consectetur " data-node-id="107:296" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="28" letter-spacing="0px" font-weight="400"><tspan x="768" y="409.893">Você sabia? Arandu é uma palavra do tupi guarani, </tspan><tspan x="768" y="445.893">termo associado aos povos Kaiowá e Guarani que, </tspan><tspan x="768" y="481.893">em geral, pode ser resumido como “sabedoria” </tspan><tspan x="768" y="517.893">(Bonilha, 2020).</tspan></text>
+<text id="Direito Ã  cultura no Brasil outubro de 2026" data-node-id="107:299" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" font-style="italic" letter-spacing="0px" font-weight="400"><tspan x="1181.38" y="889.639">Direito à cultura no Brasil
+</tspan><tspan x="1259.11" y="918.639">outubro de 2026</tspan></text>
+<g id="BotÃ£o de navegaÃ§Ã£o â 19" data-node-id="107:300">
+<rect x="579" y="962.5" width="107" height="41" rx="20.5" fill="#141210" />
+<rect x="579" y="962.5" width="107" height="41" rx="20.5" stroke="#F3EEE4" />
+<text id="RÃ³tulo" data-node-id="I107:300;103:20" fill="#F3EEE4" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="595.5" y="989.4">‹ ANTERIOR</tspan></text>
+</g>
+<g id="BotÃ£o de navegaÃ§Ã£o â 03" data-node-id="107:302">
+<rect x="684.8" y="962.5" width="89" height="41" rx="20.5" fill="#141210" />
+<rect x="684.8" y="962.5" width="89" height="41" rx="20.5" stroke="#F3EEE4" />
+<text id="RÃ³tulo_2" data-node-id="I107:302;103:20" fill="#F3EEE4" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="701.3" y="989.4">SUMÁRIO</tspan></text>
+</g>
+<g id="BotÃ£o de navegaÃ§Ã£o â 01" data-node-id="107:304">
+<rect x="778.8" y="962.5" width="90" height="41" rx="20.5" fill="#141210" />
+<rect x="778.8" y="962.5" width="90" height="41" rx="20.5" stroke="#F3EEE4" />
+<text id="RÃ³tulo_3" data-node-id="I107:304;103:20" fill="#F3EEE4" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="795.3" y="989.4">CAPA ↺</tspan></text>
+</g>
+</g>
+<defs>
+<pattern id="pattern0_107_285" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_107_285" transform="matrix(0.00100503 0 0 0.00148893 0 -0.00623488)" />
+</pattern>
+<pattern id="pattern1_107_285" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_107_285" transform="matrix(0.00100806 0 0 0.00149343 2.18417e-05 -0.0347123)" />
+</pattern>
+<image id="image0_107_285" data-name="image.png" width="995" height="680" preserveAspectRatio="none" xlink:href="__ASSET_BASE__images/af119bf84e1f34ec91e8.webp" />
+<image id="image1_107_285" data-name="image.png" width="992" height="716" preserveAspectRatio="none" xlink:href="__ASSET_BASE__images/674f09400ae9f22bd5f0.webp" />
+</defs>
+</svg>

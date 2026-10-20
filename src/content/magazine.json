@@ -1,0 +1,5652 @@
+{
+  "title": "Revista — Direito à Cultura",
+  "version": "2412019737579330158",
+  "sourceDate": "2026-10-19T10:30:07Z",
+  "pages": [
+    {
+      "number": 1,
+      "id": "238:220",
+      "title": "Capa",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-01.svg",
+      "thumbnail": "assets/previews/page-01.webp",
+      "texts": [
+        {
+          "id": "238:223",
+          "text": "Pierre Bourdieu",
+          "box": {
+            "x": 132,
+            "y": 50.29999923706055,
+            "width": 99,
+            "height": 22
+          }
+        },
+        {
+          "id": "238:224",
+          "text": "Capital cultural e distinção",
+          "box": {
+            "x": 132,
+            "y": 73.5999984741211,
+            "width": 208,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:227",
+          "text": "Émile Durkheim",
+          "box": {
+            "x": 563.2000122070312,
+            "y": 50.29999923706055,
+            "width": 100,
+            "height": 22
+          }
+        },
+        {
+          "id": "238:228",
+          "text": "Educação e formação social",
+          "box": {
+            "x": 563.2000122070312,
+            "y": 73.5999984741211,
+            "width": 209,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:231",
+          "text": "Marilena Chauí",
+          "box": {
+            "x": 1017.2999877929688,
+            "y": 50.29999923706055,
+            "width": 93,
+            "height": 22
+          }
+        },
+        {
+          "id": "238:232",
+          "text": "Cidadania cultural",
+          "box": {
+            "x": 1017.2999877929688,
+            "y": 73.5999984741211,
+            "width": 143,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:234",
+          "text": "Arandu",
+          "box": {
+            "x": 220.60000610351562,
+            "y": 162.10000610351562,
+            "width": 373,
+            "height": 128
+          }
+        },
+        {
+          "id": "238:236",
+          "text": "REVISTA",
+          "box": {
+            "x": 890.7000122070312,
+            "y": 162.10000610351562,
+            "width": 412,
+            "height": 128
+          }
+        },
+        {
+          "id": "238:237",
+          "text": "#001",
+          "box": {
+            "x": 64,
+            "y": 342.6000061035156,
+            "width": 90,
+            "height": 48
+          }
+        },
+        {
+          "id": "238:238",
+          "text": "outubro de 2026",
+          "box": {
+            "x": 64,
+            "y": 401.8000183105469,
+            "width": 135,
+            "height": 32
+          }
+        },
+        {
+          "id": "238:239",
+          "text": "Sociologia e estatística",
+          "box": {
+            "x": 64,
+            "y": 445.70001220703125,
+            "width": 280,
+            "height": 29
+          }
+        },
+        {
+          "id": "I238:240;103:13",
+          "text": "DESTAQUES DO RAP",
+          "box": {
+            "x": 76,
+            "y": 493.20001220703125,
+            "width": 142,
+            "height": 24
+          }
+        },
+        {
+          "id": "238:242",
+          "text": "MANO BROWN",
+          "box": {
+            "x": 64,
+            "y": 666.699951171875,
+            "width": 119,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:243",
+          "text": "Podpah #351, 2022",
+          "box": {
+            "x": 64,
+            "y": 707.699951171875,
+            "width": 280,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:245",
+          "text": "EMICIDA",
+          "box": {
+            "x": 64,
+            "y": 880.699951171875,
+            "width": 70,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:246",
+          "text": "AMArelo no Theatro Municipal, 2019",
+          "box": {
+            "x": 64,
+            "y": 921.699951171875,
+            "width": 280,
+            "height": 29
+          }
+        },
+        {
+          "id": "238:250",
+          "text": "CULTURA É DIREITO",
+          "box": {
+            "x": 1179.0937840938568,
+            "y": 669.96728515625,
+            "width": 194.23866772651672,
+            "height": 108.8803679049015
+          }
+        },
+        {
+          "id": "238:251",
+          "text": "CF/1988 · ARTS. 215–216",
+          "box": {
+            "x": 1177.1684692203999,
+            "y": 773.31494140625,
+            "width": 116.11499831080437,
+            "height": 27.973275668919086
+          }
+        },
+        {
+          "id": "238:253",
+          "text": "DIREITO À CULTURA",
+          "box": {
+            "x": 384,
+            "y": 398,
+            "width": 570,
+            "height": 80
+          }
+        },
+        {
+          "id": "238:255",
+          "text": "no Brasil",
+          "box": {
+            "x": 384,
+            "y": 502,
+            "width": 237,
+            "height": 64
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "238:222",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 72,
+            "y": 48,
+            "width": 48,
+            "height": 48
+          }
+        },
+        {
+          "id": "238:226",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 503.20001220703125,
+            "y": 48,
+            "width": 48,
+            "height": 48
+          }
+        },
+        {
+          "id": "238:230",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 957.2999877929688,
+            "y": 48,
+            "width": 48,
+            "height": 48
+          }
+        },
+        {
+          "id": "238:241",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 64,
+            "y": 535.199951171875,
+            "width": 280,
+            "height": 120
+          }
+        },
+        {
+          "id": "238:244",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 64,
+            "y": 749.199951171875,
+            "width": 280,
+            "height": 120
+          }
+        },
+        {
+          "id": "238:247",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 392,
+            "y": 363,
+            "width": 1048,
+            "height": 661
+          }
+        },
+        {
+          "id": "238:256",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 625.0999755859375,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "238:257",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 2,
+          "box": {
+            "x": 719.0999755859375,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "104:49",
+      "title": "Manifesto + equipe",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-02.svg",
+      "thumbnail": "assets/previews/page-02.webp",
+      "texts": [
+        {
+          "id": "104:50",
+          "text": "Cultura é a liberdade de transitar entre mundos.",
+          "box": {
+            "x": 64,
+            "y": 96,
+            "width": 640,
+            "height": 384
+          }
+        },
+        {
+          "id": "104:51",
+          "text": "AUTORES DA REVISTA",
+          "box": {
+            "x": 64,
+            "y": 719.5,
+            "width": 206,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:52",
+          "text": "Arthur Machado\nEduardo Passos de Queiroz\nEduardo Carbonaro Policarpo\nTainá Dias Martinelli\nLorraine Frontelli\nFelipe Jorge Lopes",
+          "box": {
+            "x": 64,
+            "y": 756.2000122070312,
+            "width": 400,
+            "height": 192
+          }
+        },
+        {
+          "id": "104:53",
+          "text": "CONHEÇA NOSSO TIME",
+          "box": {
+            "x": 800,
+            "y": 95.5,
+            "width": 210,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:55",
+          "text": "Arthur Machado",
+          "box": {
+            "x": 800,
+            "y": 276.3999938964844,
+            "width": 115,
+            "height": 22
+          }
+        },
+        {
+          "id": "104:56",
+          "text": "arthur.machado@institutojef.org.br",
+          "box": {
+            "x": 800,
+            "y": 305.70001220703125,
+            "width": 258,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:59",
+          "text": "Eduardo Passos de Queiroz",
+          "box": {
+            "x": 1112,
+            "y": 271.3999938964844,
+            "width": 198,
+            "height": 22
+          }
+        },
+        {
+          "id": "104:60",
+          "text": "eduardo.passos@institutojef.org.br",
+          "box": {
+            "x": 1112,
+            "y": 300.70001220703125,
+            "width": 253,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:63",
+          "text": "Eduardo Carbonaro Policarpo",
+          "box": {
+            "x": 801,
+            "y": 505,
+            "width": 215,
+            "height": 22
+          }
+        },
+        {
+          "id": "104:64",
+          "text": "eduardo.policarpo@institutojef.org.br",
+          "box": {
+            "x": 801,
+            "y": 534.300048828125,
+            "width": 274,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:67",
+          "text": "Tainá Dias Martinelli",
+          "box": {
+            "x": 1113,
+            "y": 500,
+            "width": 151,
+            "height": 22
+          }
+        },
+        {
+          "id": "104:68",
+          "text": "taina.martinelli@institutojef.org.br",
+          "box": {
+            "x": 1113,
+            "y": 529.300048828125,
+            "width": 260,
+            "height": 29
+          }
+        },
+        {
+          "id": "149:161",
+          "text": "Lorraine Frontelli",
+          "box": {
+            "x": 801,
+            "y": 739,
+            "width": 128,
+            "height": 22
+          }
+        },
+        {
+          "id": "149:162",
+          "text": "lorraine.frontelli@institutojef.org.br",
+          "box": {
+            "x": 801,
+            "y": 768.300048828125,
+            "width": 265,
+            "height": 29
+          }
+        },
+        {
+          "id": "149:164",
+          "text": "Felipe Jorge Lopes",
+          "box": {
+            "x": 1113,
+            "y": 734,
+            "width": 139,
+            "height": 22
+          }
+        },
+        {
+          "id": "149:165",
+          "text": "felipe.lopes@institutojef.org.br",
+          "box": {
+            "x": 1113,
+            "y": 763.300048828125,
+            "width": 223,
+            "height": 29
+          }
+        },
+        {
+          "id": "I104:71;103:18",
+          "text": "2",
+          "box": {
+            "x": 1368.300048828125,
+            "y": 963,
+            "width": 8,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "104:54",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 800,
+            "y": 157,
+            "width": 112,
+            "height": 112
+          }
+        },
+        {
+          "id": "link-104:56",
+          "kind": "link",
+          "label": "arthur.machado@institutojef.org.br",
+          "href": "mailto:arthur.machado@institutojef.org.br",
+          "box": {
+            "x": 800,
+            "y": 305.70001220703125,
+            "width": 258,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:58",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 1112,
+            "y": 152,
+            "width": 112,
+            "height": 112
+          }
+        },
+        {
+          "id": "link-104:60",
+          "kind": "link",
+          "label": "eduardo.passos@institutojef.org.br",
+          "href": "mailto:eduardo.passos@institutojef.org.br",
+          "box": {
+            "x": 1112,
+            "y": 300.70001220703125,
+            "width": 253,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:62",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 801,
+            "y": 381,
+            "width": 112,
+            "height": 112
+          }
+        },
+        {
+          "id": "link-104:64",
+          "kind": "link",
+          "label": "eduardo.policarpo@institutojef.org.br",
+          "href": "mailto:eduardo.policarpo@institutojef.org.br",
+          "box": {
+            "x": 801,
+            "y": 534.300048828125,
+            "width": 274,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:66",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 1113,
+            "y": 376,
+            "width": 112,
+            "height": 112
+          }
+        },
+        {
+          "id": "link-104:68",
+          "kind": "link",
+          "label": "taina.martinelli@institutojef.org.br",
+          "href": "mailto:taina.martinelli@institutojef.org.br",
+          "box": {
+            "x": 1113,
+            "y": 529.300048828125,
+            "width": 260,
+            "height": 29
+          }
+        },
+        {
+          "id": "149:160",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 801,
+            "y": 615,
+            "width": 112,
+            "height": 112
+          }
+        },
+        {
+          "id": "link-149:162",
+          "kind": "link",
+          "label": "lorraine.frontelli@institutojef.org.br",
+          "href": "mailto:lorraine.frontelli@institutojef.org.br",
+          "box": {
+            "x": 801,
+            "y": 768.300048828125,
+            "width": 265,
+            "height": 29
+          }
+        },
+        {
+          "id": "149:163",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 1113,
+            "y": 610,
+            "width": 112,
+            "height": 112
+          }
+        },
+        {
+          "id": "link-149:165",
+          "kind": "link",
+          "label": "felipe.lopes@institutojef.org.br",
+          "href": "mailto:felipe.lopes@institutojef.org.br",
+          "box": {
+            "x": 1113,
+            "y": 763.300048828125,
+            "width": 223,
+            "height": 29
+          }
+        },
+        {
+          "id": "104:73",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 1,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:75",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 681.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:77",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 3,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "104:79",
+      "title": "Sumário",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-03.svg",
+      "thumbnail": "assets/previews/page-03.webp",
+      "texts": [
+        {
+          "id": "104:80",
+          "text": "Sumário",
+          "box": {
+            "x": 64,
+            "y": 63.5,
+            "width": 417,
+            "height": 128
+          }
+        },
+        {
+          "id": "104:82",
+          "text": "Clique em uma seção para ir direto a ela.",
+          "box": {
+            "x": 64,
+            "y": 263.5,
+            "width": 394,
+            "height": 34
+          }
+        },
+        {
+          "id": "I104:133;103:18",
+          "text": "3",
+          "box": {
+            "x": 1368.7001953125,
+            "y": 963,
+            "width": 8,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "104:83",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 0,
+            "y": 400,
+            "width": 560,
+            "height": 627
+          }
+        },
+        {
+          "id": "104:85",
+          "kind": "navigate",
+          "label": "04 EDITORIAL",
+          "target": 4,
+          "box": {
+            "x": 640,
+            "y": 96,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:88",
+          "kind": "navigate",
+          "label": "12 ANÁLISE GRÁFICA: TERRITÓRIO",
+          "target": 12,
+          "box": {
+            "x": 1032,
+            "y": 96,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:91",
+          "kind": "navigate",
+          "label": "05 EDITORIAL II",
+          "target": 5,
+          "box": {
+            "x": 640,
+            "y": 178,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:94",
+          "kind": "navigate",
+          "label": "13 ANÁLISE GRÁFICA: DIGITAL E RAÇA",
+          "target": 13,
+          "box": {
+            "x": 1032,
+            "y": 178,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:97",
+          "kind": "navigate",
+          "label": "06 CITAÇÃO MANO BROWN",
+          "target": 6,
+          "box": {
+            "x": 640,
+            "y": 260,
+            "width": 344,
+            "height": 36
+          }
+        },
+        {
+          "id": "104:100",
+          "kind": "navigate",
+          "label": "14 DIREITO DE QUEM?",
+          "target": 14,
+          "box": {
+            "x": 1032,
+            "y": 260,
+            "width": 344,
+            "height": 36
+          }
+        },
+        {
+          "id": "104:103",
+          "kind": "navigate",
+          "label": "07 AMARELO NO MUNICIPAL",
+          "target": 7,
+          "box": {
+            "x": 640,
+            "y": 342,
+            "width": 344,
+            "height": 36
+          }
+        },
+        {
+          "id": "104:106",
+          "kind": "navigate",
+          "label": "15 UM CICLO POSSÍVEL",
+          "target": 15,
+          "box": {
+            "x": 1032,
+            "y": 342,
+            "width": 344,
+            "height": 36
+          }
+        },
+        {
+          "id": "104:109",
+          "kind": "navigate",
+          "label": "08 ERUDITO E POPULAR",
+          "target": 8,
+          "box": {
+            "x": 640,
+            "y": 424,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:112",
+          "kind": "navigate",
+          "label": "16 DEMOCRATIZAR A CULTURA",
+          "target": 16,
+          "box": {
+            "x": 1032,
+            "y": 424,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:115",
+          "kind": "navigate",
+          "label": "09 COMPLEXIDADE CULTURAL",
+          "target": 9,
+          "box": {
+            "x": 640,
+            "y": 506,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:118",
+          "kind": "navigate",
+          "label": "17 INICIATIVA EM DESTAQUE",
+          "target": 17,
+          "box": {
+            "x": 1032,
+            "y": 506,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:121",
+          "kind": "navigate",
+          "label": "10 INTELECTUAIS: O QUE PENSAM?",
+          "target": 10,
+          "box": {
+            "x": 640,
+            "y": 588,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:124",
+          "kind": "navigate",
+          "label": "18 INICIATIVAS",
+          "target": 18,
+          "box": {
+            "x": 1032,
+            "y": 588,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:127",
+          "kind": "navigate",
+          "label": "11 ANÁLISE GRÁFICA: CLASSE",
+          "target": 11,
+          "box": {
+            "x": 640,
+            "y": 670,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:130",
+          "kind": "navigate",
+          "label": "19 REFERÊNCIAS",
+          "target": 19,
+          "box": {
+            "x": 1032,
+            "y": 670,
+            "width": 344,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:135",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 2,
+          "box": {
+            "x": 583.89990234375,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:137",
+          "kind": "navigate",
+          "label": "CAPA",
+          "target": 1,
+          "box": {
+            "x": 693.699951171875,
+            "y": 963,
+            "width": 64,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:139",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 4,
+          "box": {
+            "x": 760.39990234375,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "104:141",
+      "title": "Editorial I",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-04.svg",
+      "thumbnail": "assets/previews/page-04.webp",
+      "texts": [
+        {
+          "id": "104:142",
+          "text": "EDITORIAL",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 334,
+            "height": 64
+          }
+        },
+        {
+          "id": "104:143",
+          "text": "CULTURA E DIREITO DE PARTICIPAR",
+          "box": {
+            "x": 64,
+            "y": 139.5,
+            "width": 449,
+            "height": 34
+          }
+        },
+        {
+          "id": "104:144",
+          "text": "ara Marilena Chauí, cultura não se limita às belas artes, pois envolve criação,",
+          "box": {
+            "x": 131.89990234375,
+            "y": 223.1999969482422,
+            "width": 190.6999969482422,
+            "height": 128
+          }
+        },
+        {
+          "id": "104:145",
+          "text": "formação, participação e o direito de produzir sentidos. Embora a legislação brasileira garanta os direitos culturais, nem todas as manifestações recebem o mesmo reconhecimento. Essa hierarquia está menos ligada à complexidade das obras do que às condições sociais de quem produz, consome e decide o que será valorizado.\nEssas condições são desiguais. Muitos jovens deixam a escola para trabalhar,",
+          "box": {
+            "x": 64,
+            "y": 375.6000061035156,
+            "width": 258.70001220703125,
+            "height": 480
+          }
+        },
+        {
+          "id": "104:146",
+          "text": "P",
+          "box": {
+            "x": 64,
+            "y": 229.60000610351562,
+            "width": 50,
+            "height": 77
+          }
+        },
+        {
+          "id": "104:149",
+          "text": "sendo essa necessidade apontada por 43% dos que não concluíram o ensino médio (IBGE, 2025). Mulheres ocupadas dedicam mais tempo ao cuidado doméstico que os homens (IBGE, 2022), enquanto pessoas pretas e pardas também enfrentam menor acesso a equipamentos culturais (IBGE, 2021). Além disso, pessoas com ensino superior frequentam mais concertos de música clássica (JLeiva; Datafolha, 2026). Esses dados mostram que tempo, formação e acesso influenciam diretamente o contato com diferentes manifestações culturais.",
+          "box": {
+            "x": 354.7001953125,
+            "y": 223.1999969482422,
+            "width": 258.70001220703125,
+            "height": 640
+          }
+        },
+        {
+          "id": "104:152",
+          "text": "O problema aumenta quando grupos com mais acesso à formação, aos recursos e aos espaços de decisão também influenciam aquilo que é considerado cultura de maior valor. Assim, manifestações próximas aos padrões valorizados pelas elites podem receber maior prestígio, enquanto culturas populares, sejam simples ou complexas, acabam menos reconhecidas. Isso não demonstra incapacidade dos grupos populares, mas desigualdade nas condições de acesso, formação e reconhecimento.",
+          "box": {
+            "x": 645.2998046875,
+            "y": 223.1999969482422,
+            "width": 258.70001220703125,
+            "height": 576
+          }
+        },
+        {
+          "id": "104:156",
+          "text": "“Nenhuma cultura é naturalmente superior ou inferior.”",
+          "box": {
+            "x": 968,
+            "y": 666.9000244140625,
+            "width": 408,
+            "height": 106
+          }
+        },
+        {
+          "id": "104:157",
+          "text": "— EDITORIAL",
+          "box": {
+            "x": 968,
+            "y": 785,
+            "width": 70,
+            "height": 24
+          }
+        },
+        {
+          "id": "I104:158;103:18",
+          "text": "4",
+          "box": {
+            "x": 1367.7001953125,
+            "y": 963,
+            "width": 8,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "104:153",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 968,
+            "y": 0,
+            "width": 472,
+            "height": 603
+          }
+        },
+        {
+          "id": "104:160",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 3,
+          "box": {
+            "x": 572.2001953125,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:162",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 681.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:164",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 5,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "104:166",
+      "title": "Editorial II",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-05.svg",
+      "thumbnail": "assets/previews/page-05.webp",
+      "texts": [
+        {
+          "id": "104:169",
+          "text": "iante disso, o enfrentamento das hierarquias culturais deve começar ainda na formação dos indivíduos.",
+          "box": {
+            "x": 609.2999877929688,
+            "y": 63,
+            "width": 190.6999969482422,
+            "height": 192
+          }
+        },
+        {
+          "id": "104:170",
+          "text": "Cabe ao Ministério da Cultura, em articulação com o Ministério da Educação, promover políticas de cidadania cultural que orientem estados, municípios e instituições de ensino. Nas escolas, esse trabalho deve ocorrer desde a educação básica, por meio do contato dos alunos com diferentes manifestações culturais,",
+          "box": {
+            "x": 544,
+            "y": 254,
+            "width": 256,
+            "height": 384
+          }
+        },
+        {
+          "id": "104:171",
+          "text": "D",
+          "box": {
+            "x": 544,
+            "y": 70,
+            "width": 61,
+            "height": 77
+          }
+        },
+        {
+          "id": "104:173",
+          "text": "de origens e níveis de complexidade diversos. O objetivo é mostrar que nenhuma cultura é naturalmente superior ou inferior e que os critérios de prestígio cultural também são construídos socialmente e influenciados pelos grupos que ocupam posições de maior poder.",
+          "box": {
+            "x": 832,
+            "y": 63.199951171875,
+            "width": 256,
+            "height": 352
+          }
+        },
+        {
+          "id": "104:176",
+          "text": "Assim, a educação pode formar cidadãos mais críticos, capazes de reconhecer a diversidade cultural sem reproduzir essas hierarquias.",
+          "box": {
+            "x": 1120,
+            "y": 63.199951171875,
+            "width": 256,
+            "height": 160
+          }
+        },
+        {
+          "id": "I104:177;103:15",
+          "text": "Você sabia?",
+          "box": {
+            "x": 569.5,
+            "y": 703.5,
+            "width": 309,
+            "height": 36
+          }
+        },
+        {
+          "id": "I104:177;103:16",
+          "text": "Os artigos 215 e 216 da Constituição de 1988 reconhecem os direitos culturais e a diversidade das expressões brasileiras.",
+          "box": {
+            "x": 569.5,
+            "y": 747.5,
+            "width": 309,
+            "height": 128
+          }
+        },
+        {
+          "id": "104:180",
+          "text": "“Os critérios de prestígio cultural também são construídos socialmente.”",
+          "box": {
+            "x": 960,
+            "y": 771.5,
+            "width": 416,
+            "height": 108
+          }
+        },
+        {
+          "id": "I104:181;103:18",
+          "text": "5",
+          "box": {
+            "x": 1369,
+            "y": 963,
+            "width": 8,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "104:167",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 1027
+          }
+        },
+        {
+          "id": "104:183",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 4,
+          "box": {
+            "x": 572.2000122070312,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:185",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 681.0999755859375,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "104:187",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 6,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "105:64",
+      "title": "Citação (voz da rua)",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-06.svg",
+      "thumbnail": "assets/previews/page-06.webp",
+      "texts": [
+        {
+          "id": "105:70",
+          "text": "“A ACEITAÇÃO NÃO VEM COM O PIX.”",
+          "box": {
+            "x": 455.3126220703125,
+            "y": 327.7084472179413,
+            "width": 488.0834823846817,
+            "height": 256.60555958747864
+          }
+        },
+        {
+          "id": "105:71",
+          "text": "— MANO BROWN, PODPAH #351, 2022",
+          "box": {
+            "x": 464.386474609375,
+            "y": 594.774317599833,
+            "width": 273.67128735780716,
+            "height": 33.51294245570898
+          }
+        },
+        {
+          "id": "105:73",
+          "text": "Capital simbólico",
+          "box": {
+            "x": 1065,
+            "y": 84.9000244140625,
+            "width": 224,
+            "height": 36
+          }
+        },
+        {
+          "id": "105:74",
+          "text": "O domínio desses repertórios pode conferir capital simbólico, isto é, prestígio reconhecido nas relações sociais.",
+          "box": {
+            "x": 1065,
+            "y": 127.4000244140625,
+            "width": 286,
+            "height": 128
+          }
+        },
+        {
+          "id": "105:75",
+          "text": "A fala de Mano Brown fornecida pelos autores e vinculada à entrevista ao Podpah ilustra outro aspecto do reconhecimento:",
+          "box": {
+            "x": 1040,
+            "y": 335.199951171875,
+            "width": 336,
+            "height": 128
+          }
+        },
+        {
+          "id": "105:76",
+          "text": "Eles te olham e sabem de onde você veio. Você pode ter o carro que for, morar onde for, você continua sendo o que você sempre foi para eles. A aceitação não vem com o Pix.",
+          "box": {
+            "x": 1040,
+            "y": 479,
+            "width": 336,
+            "height": 160
+          }
+        },
+        {
+          "id": "105:79",
+          "text": "Fonte: Podpah (2022), Mano Brown — Podpah #351. Transcrição fornecida e confirmada pelos autores do trabalho.",
+          "box": {
+            "x": 1040,
+            "y": 938,
+            "width": 300,
+            "height": 60
+          }
+        },
+        {
+          "id": "I105:80;103:18",
+          "text": "6",
+          "box": {
+            "x": 1368.199951171875,
+            "y": 963,
+            "width": 9,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "105:77",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 1040,
+            "y": 707,
+            "width": 336,
+            "height": 224
+          }
+        },
+        {
+          "id": "105:82",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 5,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:84",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 682.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:86",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 7,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "105:88",
+      "title": "Ocupação (palco)",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-07.svg",
+      "thumbnail": "assets/previews/page-07.webp",
+      "texts": [
+        {
+          "id": "105:92",
+          "text": "THEATRO MUNICIPAL DE SÃO PAULO · 27.11.2019",
+          "box": {
+            "x": 736,
+            "y": 64,
+            "width": 354,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:93",
+          "text": "EMICIDA",
+          "box": {
+            "x": 1319.10009765625,
+            "y": 64,
+            "width": 59,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:94",
+          "text": "AmarElo",
+          "box": {
+            "x": 736,
+            "y": 183.5,
+            "width": 422,
+            "height": 128
+          }
+        },
+        {
+          "id": "105:96",
+          "text": "NO MUNICIPAL",
+          "box": {
+            "x": 758.45947265625,
+            "y": 330.937286734581,
+            "width": 499.0482084751129,
+            "height": 113.25167047977448
+          }
+        },
+        {
+          "id": "105:97",
+          "text": "A possibilidade de interromper essas fronteiras aparece no caso de Emicida. Em 27 de novembro de 2019, o artista apresentou AMArelo no Theatro Municipal de São Paulo, ressaltando a ancestralidade e a presença negra em um espaço historicamente associado às elites brancas (Rocha, 2019). O rap já possuía valor cultural antes desse reconhecimento institucional.",
+          "box": {
+            "x": 736,
+            "y": 527.199951171875,
+            "width": 304,
+            "height": 352
+          }
+        },
+        {
+          "id": "105:98",
+          "text": "Sua presença no Municipal pode ser interpretada como disputa pela legitimidade: outros artistas, públicos e memórias passam a ocupar uma instituição consagrada. O episódio não demonstra o fim das desigualdades, mas mostra que as instituições podem ser questionadas e transformadas.",
+          "box": {
+            "x": 1072,
+            "y": 527.199951171875,
+            "width": 304,
+            "height": 288
+          }
+        },
+        {
+          "id": "I105:100;103:18",
+          "text": "7",
+          "box": {
+            "x": 1368.89990234375,
+            "y": 963,
+            "width": 7,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "105:90",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 112,
+            "y": 112,
+            "width": 528,
+            "height": 816
+          }
+        },
+        {
+          "id": "105:102",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 6,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:104",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:106",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 8,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "105:108",
+      "title": "Duas vozes",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-08.svg",
+      "thumbnail": "assets/previews/page-08.webp",
+      "texts": [
+        {
+          "id": "105:110",
+          "text": "Erudito",
+          "box": {
+            "x": 323,
+            "y": 63.5,
+            "width": 365,
+            "height": 128
+          }
+        },
+        {
+          "id": "105:111",
+          "text": "POPULAR",
+          "box": {
+            "x": 752,
+            "y": 63.5,
+            "width": 435,
+            "height": 128
+          }
+        },
+        {
+          "id": "I105:112;103:13",
+          "text": "CATEGORIAS QUE SE CRUZAM",
+          "box": {
+            "x": 623.2001953125,
+            "y": 230,
+            "width": 211,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:115",
+          "text": "Formação especializada e instituições; também mídia e comunidades.",
+          "box": {
+            "x": 64,
+            "y": 346.5,
+            "width": 528,
+            "height": 68
+          }
+        },
+        {
+          "id": "105:116",
+          "text": "Práticas comunitárias e cotidianas; também mídia e instituições.",
+          "box": {
+            "x": 848,
+            "y": 346.5,
+            "width": 528,
+            "height": 68
+          }
+        },
+        {
+          "id": "I105:117;103:13",
+          "text": "CIRCULAÇÃO",
+          "box": {
+            "x": 675,
+            "y": 295,
+            "width": 90,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:120",
+          "text": "Técnicas e referências específicas, variáveis entre manifestações.",
+          "box": {
+            "x": 64,
+            "y": 478.5,
+            "width": 528,
+            "height": 68
+          }
+        },
+        {
+          "id": "105:121",
+          "text": "Técnicas e referências específicas, variáveis entre manifestações.",
+          "box": {
+            "x": 848,
+            "y": 478.5,
+            "width": 528,
+            "height": 68
+          }
+        },
+        {
+          "id": "I105:122;103:13",
+          "text": "COMPLEXIDADE",
+          "box": {
+            "x": 665,
+            "y": 427,
+            "width": 110,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:125",
+          "text": "Educação formal, convivência e experiências culturais.",
+          "box": {
+            "x": 42,
+            "y": 610.5,
+            "width": 550,
+            "height": 34
+          }
+        },
+        {
+          "id": "105:126",
+          "text": "Convivência, oralidade, experiências e formação.",
+          "box": {
+            "x": 848,
+            "y": 610.5,
+            "width": 490,
+            "height": 34
+          }
+        },
+        {
+          "id": "I105:127;103:13",
+          "text": "APRENDIZAGEM",
+          "box": {
+            "x": 665,
+            "y": 559,
+            "width": 110,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:130",
+          "text": "Consagração institucional historicamente construída.",
+          "box": {
+            "x": 48,
+            "y": 703.5,
+            "width": 544,
+            "height": 34
+          }
+        },
+        {
+          "id": "105:131",
+          "text": "Reconhecimento comunitário e institucional, sujeito a disputas.",
+          "box": {
+            "x": 848,
+            "y": 703.5,
+            "width": 528,
+            "height": 68
+          }
+        },
+        {
+          "id": "I105:132;103:13",
+          "text": "RECONHECIMENTO",
+          "box": {
+            "x": 655,
+            "y": 652,
+            "width": 131,
+            "height": 24
+          }
+        },
+        {
+          "id": "105:135",
+          "text": "Pode dialogar com manifestações populares.",
+          "box": {
+            "x": 144,
+            "y": 835.5,
+            "width": 448,
+            "height": 34
+          }
+        },
+        {
+          "id": "160:160",
+          "text": "Síntese conceitual para esta análise. As categorias se cruzam e não indicam superioridade natural.",
+          "box": {
+            "x": 83,
+            "y": 905,
+            "width": 509,
+            "height": 16
+          }
+        },
+        {
+          "id": "105:136",
+          "text": "Pode ocupar e transformar espaços consagrados.",
+          "box": {
+            "x": 848,
+            "y": 835.5,
+            "width": 492,
+            "height": 34
+          }
+        },
+        {
+          "id": "I105:137;103:13",
+          "text": "RELAÇÃO",
+          "box": {
+            "x": 688,
+            "y": 784,
+            "width": 64,
+            "height": 24
+          }
+        },
+        {
+          "id": "I105:141;103:18",
+          "text": "8",
+          "box": {
+            "x": 1368.2998046875,
+            "y": 963,
+            "width": 9,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "105:143",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 7,
+          "box": {
+            "x": 572.2001953125,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:145",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:147",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 9,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "id": "105:149",
+      "title": "Matéria / complexidade",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-09.svg",
+      "thumbnail": "assets/previews/page-09.webp",
+      "texts": [
+        {
+          "id": "105:150",
+          "text": "COMPLEXIDADE",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 681,
+            "height": 96
+          }
+        },
+        {
+          "id": "105:152",
+          "text": "NÃO É PRESTÍGIO",
+          "box": {
+            "x": 998.5845336914062,
+            "y": 82.74888096004725,
+            "width": 299.6248415708542,
+            "height": 68.60074748843908
+          }
+        },
+        {
+          "id": "105:153",
+          "text": "Complexidade não é dificuldade",
+          "box": {
+            "x": 64,
+            "y": 223.89990234375,
+            "width": 370,
+            "height": 36
+          }
+        },
+        {
+          "id": "105:154",
+          "text": "Também é necessário distinguir complexidade de dificuldade e de prestígio. Uma expressão familiar pode parecer simples porque seus códigos foram aprendidos na convivência; outra pode parecer difícil porque suas referências são desconhecidas.",
+          "box": {
+            "x": 64,
+            "y": 270.39990234375,
+            "width": 400,
+            "height": 192
+          }
+        },
+        {
+          "id": "105:155",
+          "text": "Bourdieu ajuda a compreender esse processo ao mostrar que a percepção artística mobiliza códigos adquiridos socialmente (Bourdieu, 1968). A dificuldade de um observador, portanto, não comprova incapacidade intelectual nem superioridade da manifestação: pode revelar uma distância entre suas experiências e as referências apresentadas.",
+          "box": {
+            "x": 64,
+            "y": 475.199951171875,
+            "width": 400,
+            "height": 288
+          }
+        },
+        {
+          "id": "105:161",
+          "text": "Repertório e capital cultural",
+          "box": {
+            "x": 992,
+            "y": 223.89990234375,
+            "width": 331,
+            "height": 36
+          }
+        },
+        {
+          "id": "105:162",
+          "text": "Repertório é o conjunto de referências, conhecimentos e experiências que permite estabelecer relações e reconhecer significados. Ele se forma na família, na escola, na convivência, na leitura e no contato com manifestações culturais. Durkheim entende a educação como formação social das novas gerações, pela transmissão de referências e disposições necessárias à vida coletiva (Durkheim, 2011).",
+          "box": {
+            "x": 992,
+            "y": 270.39990234375,
+            "width": 384,
+            "height": 320
+          }
+        },
+        {
+          "id": "105:163",
+          "text": "Ritmo, linguagem e memória",
+          "box": {
+            "x": 64,
+            "y": 791.89990234375,
+            "width": 339,
+            "height": 36
+          }
+        },
+        {
+          "id": "105:164",
+          "text": "Camadas de sentido no rap e na música de concerto",
+          "box": {
+            "x": 64,
+            "y": 830.300048828125,
+            "width": 295,
+            "height": 20
+          }
+        },
+        {
+          "id": "105:166",
+          "text": "Essa distinção não determina a complexidade de cada manifestação.",
+          "box": {
+            "x": 140,
+            "y": 870.5,
+            "width": 215,
+            "height": 60
+          }
+        },
+        {
+          "id": "105:168",
+          "text": "São possibilidades de análise, não medidas de superioridade entre gêneros.",
+          "box": {
+            "x": 438.70001220703125,
+            "y": 863.5,
+            "width": 215,
+            "height": 60
+          }
+        },
+        {
+          "id": "105:170",
+          "text": "Repertório e capital cultural não são, assim, sinônimos completos.",
+          "box": {
+            "x": 737.2999877929688,
+            "y": 863.5,
+            "width": 240,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:172",
+          "text": "“Diferenças de técnica e elaboração existem, mas o prestígio não decorre exclusivamente delas.” — Bourdieu, 1968; Nogueira, 2021",
+          "box": {
+            "x": 1017,
+            "y": 793,
+            "width": 334,
+            "height": 128
+          }
+        },
+        {
+          "id": "I105:173;103:18",
+          "text": "9",
+          "box": {
+            "x": 1368.199951171875,
+            "y": 963,
+            "width": 9,
+            "height": 29
+          }
+        },
+        {
+          "id": "198:167",
+          "text": "Foto: Wilfredor, Wikimedia Commons (CC0).",
+          "box": {
+            "x": 531,
+            "y": 762,
+            "width": 255,
+            "height": 20
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "105:156",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 522.0836297869682,
+            "y": 223.409423828125,
+            "width": 411.83272153139114,
+            "height": 297.18125998973846
+          }
+        },
+        {
+          "id": "105:159",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 528,
+            "y": 552,
+            "width": 400,
+            "height": 203
+          }
+        },
+        {
+          "id": "105:165",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 64,
+            "y": 871,
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "id": "105:167",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 362.70001220703125,
+            "y": 864,
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "id": "105:169",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 661.2999877929688,
+            "y": 864,
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "id": "105:175",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 8,
+          "box": {
+            "x": 572.2000122070312,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:177",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.0999755859375,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:179",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 10,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "id": "105:181",
+      "title": "Intelectuais",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-10.svg",
+      "thumbnail": "assets/previews/page-10.webp",
+      "texts": [
+        {
+          "id": "105:183",
+          "text": "Intelectuais:\no que pensam?",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 832,
+            "height": 160
+          }
+        },
+        {
+          "id": "105:184",
+          "text": "Bourdieu acrescenta que conhecimentos e disposições adquiridos ao longo do tempo podem funcionar como capital cultural: além de ajudarem a compreender manifestações, podem produzir vantagens quando são reconhecidos e valorizados em determinados contextos (Bourdieu, 1979).",
+          "box": {
+            "x": 64,
+            "y": 287.199951171875,
+            "width": 256,
+            "height": 352
+          }
+        },
+        {
+          "id": "105:186",
+          "text": "PIERRE\nBOURDIEU",
+          "box": {
+            "x": 160,
+            "y": 823.5,
+            "width": 94,
+            "height": 58
+          }
+        },
+        {
+          "id": "105:187",
+          "text": "Durkheim entende a educação como formação social das novas gerações, pela transmissão de referências e disposições necessárias à vida coletiva (Durkheim, 2011). Entretanto, as condições dessa aprendizagem variam entre meios sociais, abrindo a questão de quem recebe oportunidades de ampliar seu repertório.",
+          "box": {
+            "x": 352,
+            "y": 287.199951171875,
+            "width": 256,
+            "height": 384
+          }
+        },
+        {
+          "id": "105:189",
+          "text": "ÉMILE\nDURKHEIM",
+          "box": {
+            "x": 448,
+            "y": 823.5,
+            "width": 97,
+            "height": 58
+          }
+        },
+        {
+          "id": "105:190",
+          "text": "Os artigos 215 e 216 da Constituição reconhecem os direitos culturais e a diversidade das expressões brasileiras; a ideia de cidadania cultural acrescenta que as pessoas são sujeitos dessa produção e participação (Brasil, 1988; Chauí, 2006).",
+          "box": {
+            "x": 640,
+            "y": 287.199951171875,
+            "width": 256,
+            "height": 288
+          }
+        },
+        {
+          "id": "105:192",
+          "text": "MARILENA\nCHAUÍ",
+          "box": {
+            "x": 736,
+            "y": 823.5,
+            "width": 97,
+            "height": 58
+          }
+        },
+        {
+          "id": "105:194",
+          "text": "CAPITAL CULTURAL",
+          "box": {
+            "x": 1049,
+            "y": 116.5,
+            "width": 185,
+            "height": 29
+          }
+        },
+        {
+          "id": "105:195",
+          "text": "O problema envolve tanto a distribuição das oportunidades de aprender quanto o valor social atribuído ao que foi aprendido.",
+          "box": {
+            "x": 1049,
+            "y": 153.199951171875,
+            "width": 302,
+            "height": 128
+          }
+        },
+        {
+          "id": "105:196",
+          "text": "Sua contribuição permite explicar por que a familiaridade cultural é aprendida.",
+          "box": {
+            "x": 1024,
+            "y": 439.89990234375,
+            "width": 352,
+            "height": 141
+          }
+        },
+        {
+          "id": "105:197",
+          "text": "BOURDIEU · DURKHEIM · CHAUÍ",
+          "box": {
+            "x": 1024,
+            "y": 600.800048828125,
+            "width": 195,
+            "height": 24
+          }
+        },
+        {
+          "id": "I105:198;103:18",
+          "text": "10",
+          "box": {
+            "x": 1361.199951171875,
+            "y": 963,
+            "width": 16,
+            "height": 29
+          }
+        },
+        {
+          "id": "198:169",
+          "text": "Retratos via Wikimedia Commons: Pierre Bourdieu, Sylvie Nikitine e Jacques Rutman, 1969 (CC0); Émile Durkheim, autor desconhecido (domínio público); Marilena Chauí, Ivone Perez/Rede Brasil Atual, 2010 (CC BY-SA 2.0).",
+          "box": {
+            "x": 1030,
+            "y": 820,
+            "width": 390,
+            "height": 80
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "105:185",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 64,
+            "y": 808,
+            "width": 80,
+            "height": 80
+          }
+        },
+        {
+          "id": "105:188",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 352,
+            "y": 808,
+            "width": 80,
+            "height": 80
+          }
+        },
+        {
+          "id": "105:191",
+          "kind": "image",
+          "label": "Ampliar retrato original",
+          "box": {
+            "x": 640,
+            "y": 808,
+            "width": 80,
+            "height": 80
+          }
+        },
+        {
+          "id": "105:200",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 9,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:202",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "105:204",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 11,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "id": "106:95",
+      "title": "Análise gráfica I",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-11.svg",
+      "thumbnail": "assets/previews/page-11.webp",
+      "texts": [
+        {
+          "id": "106:96",
+          "text": "ANÁLISE GRÁFICA",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 512,
+            "height": 64
+          }
+        },
+        {
+          "id": "106:97",
+          "text": "Participação por classe",
+          "box": {
+            "x": 64,
+            "y": 135.89990234375,
+            "width": 271,
+            "height": 36
+          }
+        },
+        {
+          "id": "106:98",
+          "text": "01",
+          "box": {
+            "x": 1296.7998046875,
+            "y": 55.5,
+            "width": 74,
+            "height": 96
+          }
+        },
+        {
+          "id": "106:99",
+          "text": "HÁBITOS CULTURAIS 2025",
+          "box": {
+            "x": 64,
+            "y": 224,
+            "width": 165,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:100",
+          "text": "A Figura 1 mostra diferenças concretas de participação, relevantes para investigar as oportunidades de contato. Na pesquisa Hábitos Culturais de 2025, com pessoas de 16 a 65 anos, a participação em alguma atividade presencial nos 12 meses anteriores foi de 93% nas classes A/B e 71% nas classes D/E.",
+          "box": {
+            "x": 64,
+            "y": 259.199951171875,
+            "width": 336,
+            "height": 288
+          }
+        },
+        {
+          "id": "106:101",
+          "text": "3,5×",
+          "box": {
+            "x": 64,
+            "y": 599.5,
+            "width": 201,
+            "height": 128
+          }
+        },
+        {
+          "id": "106:102",
+          "text": "no cinema: 60% nas classes A/B contra 17% nas D/E",
+          "box": {
+            "x": 64,
+            "y": 739.199951171875,
+            "width": 336,
+            "height": 64
+          }
+        },
+        {
+          "id": "106:104",
+          "text": "FIGURA 1 · PARTICIPAÇÃO CULTURAL NOS ÚLTIMOS 12 MESES",
+          "box": {
+            "x": 496,
+            "y": 252.300048828125,
+            "width": 424,
+            "height": 22
+          }
+        },
+        {
+          "id": "I106:105;103:26",
+          "text": "Classes A/B",
+          "box": {
+            "x": 1147.89990234375,
+            "y": 252,
+            "width": 89,
+            "height": 29
+          }
+        },
+        {
+          "id": "I106:108;103:26",
+          "text": "Classes D/E",
+          "box": {
+            "x": 1266.5,
+            "y": 252,
+            "width": 90,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:113",
+          "text": "93%",
+          "box": {
+            "x": 547.5,
+            "y": 325.199951171875,
+            "width": 26,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:115",
+          "text": "71%",
+          "box": {
+            "x": 613.5,
+            "y": 388.60009765625,
+            "width": 23,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:117",
+          "text": "60%",
+          "box": {
+            "x": 765.5,
+            "y": 420.300048828125,
+            "width": 27,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:119",
+          "text": "17%",
+          "box": {
+            "x": 830.5,
+            "y": 544.199951171875,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:121",
+          "text": "38%",
+          "box": {
+            "x": 983.5,
+            "y": 483.699951171875,
+            "width": 27,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:123",
+          "text": "10%",
+          "box": {
+            "x": 1048.5,
+            "y": 564.39990234375,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:125",
+          "text": "28%",
+          "box": {
+            "x": 1201.5,
+            "y": 512.5,
+            "width": 27,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:127",
+          "text": "8%",
+          "box": {
+            "x": 1269,
+            "y": 570.199951171875,
+            "width": 20,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:128",
+          "text": "Alguma atividade",
+          "box": {
+            "x": 525.5,
+            "y": 633.699951171875,
+            "width": 134,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:129",
+          "text": "Cinema",
+          "box": {
+            "x": 782,
+            "y": 633.699951171875,
+            "width": 59,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:130",
+          "text": "Teatro",
+          "box": {
+            "x": 1005,
+            "y": 633.699951171875,
+            "width": 49,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:131",
+          "text": "Museu",
+          "box": {
+            "x": 1221.5,
+            "y": 633.699951171875,
+            "width": 51,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:132",
+          "text": "Fonte: Fundação Itaú; Datafolha, Hábitos Culturais, 2025. Pessoas de 16 a 65 anos.",
+          "box": {
+            "x": 496,
+            "y": 678.300048828125,
+            "width": 471,
+            "height": 20
+          }
+        },
+        {
+          "id": "106:133",
+          "text": "As diferenças variam conforme a atividade: no cinema, 60% e 17%; no teatro, 38% e 10%;",
+          "box": {
+            "x": 464,
+            "y": 762.199951171875,
+            "width": 224,
+            "height": 128
+          }
+        },
+        {
+          "id": "106:134",
+          "text": "nos museus, 28% e 8% (Fundação Itaú; Datafolha, 2025). Portanto, a participação em alguma atividade não elimina a desigualdade de acesso a outras experiências.",
+          "box": {
+            "x": 720,
+            "y": 762,
+            "width": 270,
+            "height": 192
+          }
+        },
+        {
+          "id": "I106:135;103:15",
+          "text": "Você sabia?",
+          "box": {
+            "x": 1041.5,
+            "y": 753.5,
+            "width": 309,
+            "height": 36
+          }
+        },
+        {
+          "id": "I106:135;103:16",
+          "text": "No teatro, a participação vai de 9% entre quem tem ensino fundamental a 38% entre quem tem ensino superior.",
+          "box": {
+            "x": 1041.5,
+            "y": 797.5,
+            "width": 309,
+            "height": 128
+          }
+        },
+        {
+          "id": "I106:138;103:18",
+          "text": "11",
+          "box": {
+            "x": 1363.7998046875,
+            "y": 963,
+            "width": 13,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "106:140",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 10,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:142",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:144",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 12,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        },
+        {
+          "id": "chart-11-0",
+          "kind": "chart",
+          "label": "Participação por classe — Figura 1",
+          "box": {
+            "x": 450,
+            "y": 210,
+            "width": 936,
+            "height": 530
+          },
+          "details": [
+            {
+              "id": "106:104",
+              "text": "FIGURA 1 · PARTICIPAÇÃO CULTURAL NOS ÚLTIMOS 12 MESES"
+            },
+            {
+              "id": "I106:105;103:26",
+              "text": "Classes A/B"
+            },
+            {
+              "id": "I106:108;103:26",
+              "text": "Classes D/E"
+            },
+            {
+              "id": "106:113",
+              "text": "93%"
+            },
+            {
+              "id": "106:115",
+              "text": "71%"
+            },
+            {
+              "id": "106:117",
+              "text": "60%"
+            },
+            {
+              "id": "106:119",
+              "text": "17%"
+            },
+            {
+              "id": "106:121",
+              "text": "38%"
+            },
+            {
+              "id": "106:123",
+              "text": "10%"
+            },
+            {
+              "id": "106:125",
+              "text": "28%"
+            },
+            {
+              "id": "106:127",
+              "text": "8%"
+            },
+            {
+              "id": "106:128",
+              "text": "Alguma atividade"
+            },
+            {
+              "id": "106:129",
+              "text": "Cinema"
+            },
+            {
+              "id": "106:130",
+              "text": "Teatro"
+            },
+            {
+              "id": "106:131",
+              "text": "Museu"
+            },
+            {
+              "id": "106:132",
+              "text": "Fonte: Fundação Itaú; Datafolha, Hábitos Culturais, 2025. Pessoas de 16 a 65 anos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "id": "106:146",
+      "title": "Análise gráfica II (território)",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-12.svg",
+      "thumbnail": "assets/previews/page-12.webp",
+      "texts": [
+        {
+          "id": "106:147",
+          "text": "ANÁLISE GRÁFICA",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 512,
+            "height": 64
+          }
+        },
+        {
+          "id": "106:148",
+          "text": "Território",
+          "box": {
+            "x": 64,
+            "y": 135.89990234375,
+            "width": 115,
+            "height": 36
+          }
+        },
+        {
+          "id": "106:149",
+          "text": "02",
+          "box": {
+            "x": 1281.10009765625,
+            "y": 55.5,
+            "width": 89,
+            "height": 96
+          }
+        },
+        {
+          "id": "106:151",
+          "text": "NORTE",
+          "box": {
+            "x": 76,
+            "y": 236,
+            "width": 42,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:152",
+          "text": "80,4%",
+          "box": {
+            "x": 76,
+            "y": 368,
+            "width": 117,
+            "height": 48
+          }
+        },
+        {
+          "id": "106:154",
+          "text": "NORDESTE",
+          "box": {
+            "x": 335,
+            "y": 272,
+            "width": 67,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:155",
+          "text": "45,6%",
+          "box": {
+            "x": 335,
+            "y": 400,
+            "width": 98,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:157",
+          "text": "CENTRO-OESTE",
+          "box": {
+            "x": 160,
+            "y": 447,
+            "width": 98,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:158",
+          "text": "50,3%",
+          "box": {
+            "x": 160,
+            "y": 527,
+            "width": 95,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:160",
+          "text": "SUDESTE",
+          "box": {
+            "x": 335,
+            "y": 471,
+            "width": 57,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:161",
+          "text": "19,3%",
+          "box": {
+            "x": 335,
+            "y": 546.5,
+            "width": 70,
+            "height": 32
+          }
+        },
+        {
+          "id": "106:163",
+          "text": "SUL",
+          "box": {
+            "x": 220,
+            "y": 598,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:164",
+          "text": "14,9%",
+          "box": {
+            "x": 220,
+            "y": 664.5,
+            "width": 72,
+            "height": 32
+          }
+        },
+        {
+          "id": "106:165",
+          "text": "Mapa: municípios a mais de 1 hora de um cinema, 2021.",
+          "box": {
+            "x": 64,
+            "y": 722.10009765625,
+            "width": 316,
+            "height": 20
+          }
+        },
+        {
+          "id": "106:166",
+          "text": "MUNICÍPIOS A MAIS DE 1 HORA DO EQUIPAMENTO",
+          "box": {
+            "x": 576,
+            "y": 224,
+            "width": 307,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:167",
+          "text": "Em 2021, 80,4% dos municípios do Norte tinham deslocamento estimado superior a uma hora para acessar cinema, diante de 34,4% no conjunto do Brasil.",
+          "box": {
+            "x": 576,
+            "y": 263.199951171875,
+            "width": 368,
+            "height": 128
+          }
+        },
+        {
+          "id": "106:168",
+          "text": "Museu · Norte 70,0% · Brasil 14,9%",
+          "box": {
+            "x": 576,
+            "y": 437.89990234375,
+            "width": 254,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:171",
+          "text": "Cinema · Norte 80,4% · Brasil 34,4%",
+          "box": {
+            "x": 576,
+            "y": 522.89990234375,
+            "width": 263,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:174",
+          "text": "Teatro · Norte 65,1% · Brasil 18,5%",
+          "box": {
+            "x": 576,
+            "y": 607.89990234375,
+            "width": 248,
+            "height": 29
+          }
+        },
+        {
+          "id": "I106:177;103:26",
+          "text": "Norte",
+          "box": {
+            "x": 596,
+            "y": 693.39990234375,
+            "width": 43,
+            "height": 29
+          }
+        },
+        {
+          "id": "I106:180;103:26",
+          "text": "Brasil",
+          "box": {
+            "x": 672.89990234375,
+            "y": 693.39990234375,
+            "width": 46,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:184",
+          "text": "Região",
+          "box": {
+            "x": 1008,
+            "y": 234,
+            "width": 44,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:185",
+          "text": "Museu",
+          "box": {
+            "x": 1158.2998046875,
+            "y": 234,
+            "width": 41,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:186",
+          "text": "Cinema",
+          "box": {
+            "x": 1235.60009765625,
+            "y": 234,
+            "width": 48,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:187",
+          "text": "Teatro",
+          "box": {
+            "x": 1326,
+            "y": 234,
+            "width": 42,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:189",
+          "text": "Norte",
+          "box": {
+            "x": 1008,
+            "y": 278.5,
+            "width": 43,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:190",
+          "text": "70,0%",
+          "box": {
+            "x": 1155.2998046875,
+            "y": 278.5,
+            "width": 44,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:191",
+          "text": "80,4%",
+          "box": {
+            "x": 1239.60009765625,
+            "y": 278.5,
+            "width": 44,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:192",
+          "text": "65,1%",
+          "box": {
+            "x": 1328,
+            "y": 278.5,
+            "width": 40,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:194",
+          "text": "Nordeste",
+          "box": {
+            "x": 1008,
+            "y": 328.5,
+            "width": 69,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:195",
+          "text": "15,4%",
+          "box": {
+            "x": 1159.2998046875,
+            "y": 328.5,
+            "width": 40,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:196",
+          "text": "45,6%",
+          "box": {
+            "x": 1241.60009765625,
+            "y": 328.5,
+            "width": 42,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:197",
+          "text": "19,7%",
+          "box": {
+            "x": 1328,
+            "y": 328.5,
+            "width": 40,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:199",
+          "text": "Centro-Oeste",
+          "box": {
+            "x": 1008,
+            "y": 378.5,
+            "width": 104,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:200",
+          "text": "28,5%",
+          "box": {
+            "x": 1157.2998046875,
+            "y": 378.5,
+            "width": 42,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:201",
+          "text": "50,3%",
+          "box": {
+            "x": 1240.60009765625,
+            "y": 378.5,
+            "width": 43,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:202",
+          "text": "39,8%",
+          "box": {
+            "x": 1325,
+            "y": 378.5,
+            "width": 43,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:204",
+          "text": "Sudeste",
+          "box": {
+            "x": 1008,
+            "y": 428.5,
+            "width": 60,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:205",
+          "text": "5,3%",
+          "box": {
+            "x": 1165.2998046875,
+            "y": 428.5,
+            "width": 34,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:206",
+          "text": "19,3%",
+          "box": {
+            "x": 1242.60009765625,
+            "y": 428.5,
+            "width": 41,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:207",
+          "text": "8,9%",
+          "box": {
+            "x": 1333,
+            "y": 428.5,
+            "width": 35,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:209",
+          "text": "Sul",
+          "box": {
+            "x": 1008,
+            "y": 478.5,
+            "width": 25,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:210",
+          "text": "1,3%",
+          "box": {
+            "x": 1166.2998046875,
+            "y": 478.5,
+            "width": 33,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:211",
+          "text": "14,9%",
+          "box": {
+            "x": 1242.60009765625,
+            "y": 478.5,
+            "width": 41,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:212",
+          "text": "4,0%",
+          "box": {
+            "x": 1332,
+            "y": 478.5,
+            "width": 36,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:214",
+          "text": "Brasil",
+          "box": {
+            "x": 1008,
+            "y": 529,
+            "width": 38,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:215",
+          "text": "14,9%",
+          "box": {
+            "x": 1160.2998046875,
+            "y": 529,
+            "width": 39,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:216",
+          "text": "34,4%",
+          "box": {
+            "x": 1241.60009765625,
+            "y": 529,
+            "width": 42,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:217",
+          "text": "18,5%",
+          "box": {
+            "x": 1329,
+            "y": 529,
+            "width": 39,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:218",
+          "text": "Fonte: IBGE (2023, p. 15). MUNIC 2021 e REGIC. Percentual de municípios com deslocamento superior a 1 hora.",
+          "box": {
+            "x": 1000,
+            "y": 575.10009765625,
+            "width": 376,
+            "height": 40
+          }
+        },
+        {
+          "id": "I106:219;103:18",
+          "text": "12",
+          "box": {
+            "x": 1362.2001953125,
+            "y": 963,
+            "width": 15,
+            "height": 29
+          }
+        },
+        {
+          "id": "174:1014",
+          "text": "OBSERVAÇÃO SOBRE OS DADOS",
+          "box": {
+            "x": 97,
+            "y": 796.60009765625,
+            "width": 200,
+            "height": 80
+          }
+        },
+        {
+          "id": "174:1015",
+          "text": "Os levantamentos medem participação declarada, oferta territorial e formas de acesso digital; não medem diretamente repertório, complexidade, compreensão ou internalização. Participar uma vez ou várias vezes no período não constitui diferença nos percentuais apresentados. As relações entre dados e teoria são interpretações, sem atribuição de causalidade única.",
+          "box": {
+            "x": 329,
+            "y": 796.199951171875,
+            "width": 1014,
+            "height": 128
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "106:221",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 11,
+          "box": {
+            "x": 572.2001953125,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:223",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:225",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 13,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        },
+        {
+          "id": "chart-12-0",
+          "kind": "chart",
+          "label": "Território — municípios por região",
+          "box": {
+            "x": 58,
+            "y": 215,
+            "width": 460,
+            "height": 530
+          },
+          "details": [
+            {
+              "id": "106:151",
+              "text": "NORTE"
+            },
+            {
+              "id": "106:152",
+              "text": "80,4%"
+            },
+            {
+              "id": "106:154",
+              "text": "NORDESTE"
+            },
+            {
+              "id": "106:155",
+              "text": "45,6%"
+            },
+            {
+              "id": "106:157",
+              "text": "CENTRO-OESTE"
+            },
+            {
+              "id": "106:158",
+              "text": "50,3%"
+            },
+            {
+              "id": "106:160",
+              "text": "SUDESTE"
+            },
+            {
+              "id": "106:161",
+              "text": "19,3%"
+            },
+            {
+              "id": "106:163",
+              "text": "SUL"
+            },
+            {
+              "id": "106:164",
+              "text": "14,9%"
+            },
+            {
+              "id": "106:165",
+              "text": "Mapa: municípios a mais de 1 hora de um cinema, 2021."
+            }
+          ]
+        },
+        {
+          "id": "chart-12-1",
+          "kind": "chart",
+          "label": "Museu, cinema e teatro — Norte e Brasil",
+          "box": {
+            "x": 568,
+            "y": 220,
+            "width": 390,
+            "height": 515
+          },
+          "details": [
+            {
+              "id": "106:166",
+              "text": "MUNICÍPIOS A MAIS DE 1 HORA DO EQUIPAMENTO"
+            },
+            {
+              "id": "106:167",
+              "text": "Em 2021, 80,4% dos municípios do Norte tinham deslocamento estimado superior a uma hora para acessar cinema, diante de 34,4% no conjunto do Brasil."
+            },
+            {
+              "id": "106:168",
+              "text": "Museu · Norte 70,0% · Brasil 14,9%"
+            },
+            {
+              "id": "106:171",
+              "text": "Cinema · Norte 80,4% · Brasil 34,4%"
+            },
+            {
+              "id": "106:174",
+              "text": "Teatro · Norte 65,1% · Brasil 18,5%"
+            },
+            {
+              "id": "I106:177;103:26",
+              "text": "Norte"
+            },
+            {
+              "id": "I106:180;103:26",
+              "text": "Brasil"
+            }
+          ]
+        },
+        {
+          "id": "chart-12-2",
+          "kind": "chart",
+          "label": "Tabela original — equipamentos culturais",
+          "box": {
+            "x": 994,
+            "y": 220,
+            "width": 390,
+            "height": 402
+          },
+          "details": [
+            {
+              "id": "106:184",
+              "text": "Região"
+            },
+            {
+              "id": "106:185",
+              "text": "Museu"
+            },
+            {
+              "id": "106:186",
+              "text": "Cinema"
+            },
+            {
+              "id": "106:187",
+              "text": "Teatro"
+            },
+            {
+              "id": "106:189",
+              "text": "Norte"
+            },
+            {
+              "id": "106:190",
+              "text": "70,0%"
+            },
+            {
+              "id": "106:191",
+              "text": "80,4%"
+            },
+            {
+              "id": "106:192",
+              "text": "65,1%"
+            },
+            {
+              "id": "106:194",
+              "text": "Nordeste"
+            },
+            {
+              "id": "106:195",
+              "text": "15,4%"
+            },
+            {
+              "id": "106:196",
+              "text": "45,6%"
+            },
+            {
+              "id": "106:197",
+              "text": "19,7%"
+            },
+            {
+              "id": "106:199",
+              "text": "Centro-Oeste"
+            },
+            {
+              "id": "106:200",
+              "text": "28,5%"
+            },
+            {
+              "id": "106:201",
+              "text": "50,3%"
+            },
+            {
+              "id": "106:202",
+              "text": "39,8%"
+            },
+            {
+              "id": "106:204",
+              "text": "Sudeste"
+            },
+            {
+              "id": "106:205",
+              "text": "5,3%"
+            },
+            {
+              "id": "106:206",
+              "text": "19,3%"
+            },
+            {
+              "id": "106:207",
+              "text": "8,9%"
+            },
+            {
+              "id": "106:209",
+              "text": "Sul"
+            },
+            {
+              "id": "106:210",
+              "text": "1,3%"
+            },
+            {
+              "id": "106:211",
+              "text": "14,9%"
+            },
+            {
+              "id": "106:212",
+              "text": "4,0%"
+            },
+            {
+              "id": "106:214",
+              "text": "Brasil"
+            },
+            {
+              "id": "106:215",
+              "text": "14,9%"
+            },
+            {
+              "id": "106:216",
+              "text": "34,4%"
+            },
+            {
+              "id": "106:217",
+              "text": "18,5%"
+            },
+            {
+              "id": "106:218",
+              "text": "Fonte: IBGE (2023, p. 15). MUNIC 2021 e REGIC. Percentual de municípios com deslocamento superior a 1 hora."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "id": "106:227",
+      "title": "Análise gráfica III",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-13.svg",
+      "thumbnail": "assets/previews/page-13.webp",
+      "texts": [
+        {
+          "id": "106:228",
+          "text": "ANÁLISE GRÁFICA",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 512,
+            "height": 64
+          }
+        },
+        {
+          "id": "106:229",
+          "text": "Acesso digital e raça",
+          "box": {
+            "x": 64,
+            "y": 135.89990234375,
+            "width": 239,
+            "height": 36
+          }
+        },
+        {
+          "id": "106:230",
+          "text": "03",
+          "box": {
+            "x": 1281.0999755859375,
+            "y": 55.5,
+            "width": 88,
+            "height": 96
+          }
+        },
+        {
+          "id": "106:232",
+          "text": "86%",
+          "box": {
+            "x": 64,
+            "y": 288.5,
+            "width": 161,
+            "height": 96
+          }
+        },
+        {
+          "id": "106:233",
+          "text": "das classes D/E acessam a internet só pelo celular",
+          "box": {
+            "x": 64,
+            "y": 396.5,
+            "width": 200,
+            "height": 58
+          }
+        },
+        {
+          "id": "106:235",
+          "text": "60%",
+          "box": {
+            "x": 288,
+            "y": 305,
+            "width": 134,
+            "height": 80
+          }
+        },
+        {
+          "id": "106:236",
+          "text": "do total de usuários acessa só pelo celular",
+          "box": {
+            "x": 288,
+            "y": 396.5,
+            "width": 200,
+            "height": 58
+          }
+        },
+        {
+          "id": "106:238",
+          "text": "18%",
+          "box": {
+            "x": 512,
+            "y": 321,
+            "width": 97,
+            "height": 64
+          }
+        },
+        {
+          "id": "106:239",
+          "text": "da classe A acessa só pelo celular",
+          "box": {
+            "x": 512,
+            "y": 396.5,
+            "width": 200,
+            "height": 58
+          }
+        },
+        {
+          "id": "106:240",
+          "text": "Figura 3 · Fonte: NIC.br; Cetic.br, TIC Domicílios 2024.",
+          "box": {
+            "x": 64,
+            "y": 491.10009765625,
+            "width": 310,
+            "height": 20
+          }
+        },
+        {
+          "id": "106:241",
+          "text": "O acesso digital também compõe essas condições. A Figura 3 mostra que 60% dos usuários de internet acessavam a rede somente pelo celular em 2024; entre as classes D/E, eram 86%, contra 18% na classe A (NIC.br; Cetic.br, 2025). O celular permite conhecer, produzir e divulgar cultura,",
+          "box": {
+            "x": 64,
+            "y": 559.199951171875,
+            "width": 280,
+            "height": 320
+          }
+        },
+        {
+          "id": "106:242",
+          "text": "mas os dispositivos oferecem possibilidades diferentes para pesquisa, edição e armazenamento. A desigualdade digital pode restringir oportunidades de formação e criação; os dados não permitem classificar os repertórios dos usuários nem considerar inferior a cultura produzida pelo celular.",
+          "box": {
+            "x": 376,
+            "y": 559.199951171875,
+            "width": 280,
+            "height": 320
+          }
+        },
+        {
+          "id": "106:243",
+          "text": "FIGURA 4 · PARTICIPAÇÃO E PÚBLICO POTENCIAL POR RAÇA (CAPITAIS)",
+          "box": {
+            "x": 752,
+            "y": 255.39990234375,
+            "width": 501,
+            "height": 22
+          }
+        },
+        {
+          "id": "I106:244;103:26",
+          "text": "Frequentaram",
+          "box": {
+            "x": 772,
+            "y": 297.199951171875,
+            "width": 110,
+            "height": 29
+          }
+        },
+        {
+          "id": "I106:247;103:26",
+          "text": "Público potencial",
+          "box": {
+            "x": 904.0999755859375,
+            "y": 297.199951171875,
+            "width": 132,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:250",
+          "text": "Museus · brancos",
+          "box": {
+            "x": 752,
+            "y": 349.199951171875,
+            "width": 131,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:253",
+          "text": "32% · 23%",
+          "box": {
+            "x": 1314,
+            "y": 339.699951171875,
+            "width": 62,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:254",
+          "text": "Museus · pretos",
+          "box": {
+            "x": 752,
+            "y": 405.199951171875,
+            "width": 119,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:257",
+          "text": "26% · 29%",
+          "box": {
+            "x": 1314,
+            "y": 390.699951171875,
+            "width": 62,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:258",
+          "text": "Teatro · brancos",
+          "box": {
+            "x": 752,
+            "y": 478.199951171875,
+            "width": 122,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:261",
+          "text": "29% · 29%",
+          "box": {
+            "x": 1314,
+            "y": 467.699951171875,
+            "width": 62,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:262",
+          "text": "Teatro · pretos",
+          "box": {
+            "x": 752,
+            "y": 534.199951171875,
+            "width": 110,
+            "height": 29
+          }
+        },
+        {
+          "id": "106:265",
+          "text": "25% · 34%",
+          "box": {
+            "x": 1313,
+            "y": 518.699951171875,
+            "width": 63,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:266",
+          "text": "Fonte: JLeiva; Datafolha, Cultura nas Capitais, 2026 (campo 2024). Parcelas do total de cada grupo.",
+          "box": {
+            "x": 752,
+            "y": 586.300048828125,
+            "width": 573,
+            "height": 20
+          }
+        },
+        {
+          "id": "I106:267;103:18",
+          "text": "13",
+          "box": {
+            "x": 1362.5999755859375,
+            "y": 963,
+            "width": 15,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "I106:247;103:25",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 884.0999755859375,
+            "y": 305.699951171875,
+            "width": 12,
+            "height": 12
+          }
+        },
+        {
+          "id": "106:269",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 12,
+          "box": {
+            "x": 572.2000122070312,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:271",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.0999755859375,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:273",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 14,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        },
+        {
+          "id": "chart-13-0",
+          "kind": "chart",
+          "label": "Acesso digital — Figura 3",
+          "box": {
+            "x": 58,
+            "y": 246,
+            "width": 664,
+            "height": 285
+          },
+          "details": [
+            {
+              "id": "106:232",
+              "text": "86%"
+            },
+            {
+              "id": "106:233",
+              "text": "das classes D/E acessam a internet só pelo celular"
+            },
+            {
+              "id": "106:235",
+              "text": "60%"
+            },
+            {
+              "id": "106:236",
+              "text": "do total de usuários acessa só pelo celular"
+            },
+            {
+              "id": "106:238",
+              "text": "18%"
+            },
+            {
+              "id": "106:239",
+              "text": "da classe A acessa só pelo celular"
+            },
+            {
+              "id": "106:240",
+              "text": "Figura 3 · Fonte: NIC.br; Cetic.br, TIC Domicílios 2024."
+            }
+          ]
+        },
+        {
+          "id": "chart-13-1",
+          "kind": "chart",
+          "label": "Participação e público potencial — Figura 4",
+          "box": {
+            "x": 740,
+            "y": 245,
+            "width": 646,
+            "height": 370
+          },
+          "details": [
+            {
+              "id": "106:243",
+              "text": "FIGURA 4 · PARTICIPAÇÃO E PÚBLICO POTENCIAL POR RAÇA (CAPITAIS)"
+            },
+            {
+              "id": "I106:244;103:26",
+              "text": "Frequentaram"
+            },
+            {
+              "id": "I106:247;103:26",
+              "text": "Público potencial"
+            },
+            {
+              "id": "106:250",
+              "text": "Museus · brancos"
+            },
+            {
+              "id": "106:253",
+              "text": "32% · 23%"
+            },
+            {
+              "id": "106:254",
+              "text": "Museus · pretos"
+            },
+            {
+              "id": "106:257",
+              "text": "26% · 29%"
+            },
+            {
+              "id": "106:258",
+              "text": "Teatro · brancos"
+            },
+            {
+              "id": "106:261",
+              "text": "29% · 29%"
+            },
+            {
+              "id": "106:262",
+              "text": "Teatro · pretos"
+            },
+            {
+              "id": "106:265",
+              "text": "25% · 34%"
+            },
+            {
+              "id": "106:266",
+              "text": "Fonte: JLeiva; Datafolha, Cultura nas Capitais, 2026 (campo 2024). Parcelas do total de cada grupo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "id": "106:275",
+      "title": "Reportagem",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-14.svg",
+      "thumbnail": "assets/previews/page-14.webp",
+      "texts": [
+        {
+          "id": "106:276",
+          "text": "“ISSO NÃO É PARA PESSOAS COMO EU.”",
+          "box": {
+            "x": 64,
+            "y": 95.89990234375,
+            "width": 400,
+            "height": 71
+          }
+        },
+        {
+          "id": "106:277",
+          "text": "EXEMPLO HIPOTÉTICO DE AUTOLIMITAÇÃO",
+          "box": {
+            "x": 64,
+            "y": 186.39990234375,
+            "width": 307,
+            "height": 24
+          }
+        },
+        {
+          "id": "106:280",
+          "text": "Direito\nde QUEM?",
+          "box": {
+            "x": 64,
+            "y": 607.5,
+            "width": 720,
+            "height": 249
+          }
+        },
+        {
+          "id": "106:281",
+          "text": "Pensamentos como “não sou inteligente para isso” ou “isso não é para pessoas como eu” exemplificam, hipoteticamente, esse processo; não são falas registradas nas pesquisas.",
+          "box": {
+            "x": 832,
+            "y": 607.199951171875,
+            "width": 256,
+            "height": 224
+          }
+        },
+        {
+          "id": "106:282",
+          "text": "Quando a dificuldade é percebida como deficiência pessoal, alguém pode evitar novas experiências antes de receber uma proibição direta.",
+          "box": {
+            "x": 1120,
+            "y": 607.199951171875,
+            "width": 256,
+            "height": 160
+          }
+        },
+        {
+          "id": "106:284",
+          "text": "Esse ciclo não é inevitável: interesse, mediação educativa e organização coletiva podem interrompê-lo.",
+          "box": {
+            "x": 64,
+            "y": 951.5,
+            "width": 480,
+            "height": 58
+          }
+        },
+        {
+          "id": "I106:285;103:18",
+          "text": "14",
+          "box": {
+            "x": 1361.60009765625,
+            "y": 963,
+            "width": 15,
+            "height": 29
+          }
+        },
+        {
+          "id": "204:162",
+          "text": "Paraisópolis, Minas Gerais. Foto: aisfer, Wikimedia Commons (CC BY-SA 4.0).",
+          "box": {
+            "x": 529,
+            "y": 556,
+            "width": 446,
+            "height": 20
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "106:278",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 528,
+            "y": 0,
+            "width": 912,
+            "height": 547
+          }
+        },
+        {
+          "id": "106:287",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 13,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:289",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "106:291",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 15,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "id": "107:126",
+      "title": "Ciclo (diagrama)",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-15.svg",
+      "thumbnail": "assets/previews/page-15.webp",
+      "texts": [
+        {
+          "id": "107:127",
+          "text": "Um ciclo possível",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 480,
+            "height": 160
+          }
+        },
+        {
+          "id": "107:128",
+          "text": "VIOLÊNCIA SIMBÓLICA",
+          "box": {
+            "x": 64,
+            "y": 244,
+            "width": 162,
+            "height": 24
+          }
+        },
+        {
+          "id": "107:129",
+          "text": "Pensamentos como “não sou inteligente para isso” ou “isso não é para pessoas como eu” exemplificam, hipoteticamente, esse processo; não são falas registradas nas pesquisas. Quando a dificuldade é percebida como deficiência pessoal, alguém pode evitar novas experiências antes de receber uma proibição direta.",
+          "box": {
+            "x": 64,
+            "y": 287.199951171875,
+            "width": 480,
+            "height": 224
+          }
+        },
+        {
+          "id": "107:130",
+          "text": "Forma-se um ciclo possível: desigualdade de oportunidades dificulta a aquisição de códigos; a dificuldade é interpretada hierarquicamente; o não pertencimento favorece a autolimitação; e a redução de experiências mantém a distância inicial. Esse ciclo não é inevitável: interesse, mediação educativa e organização coletiva podem interrompê-lo.",
+          "box": {
+            "x": 64,
+            "y": 545,
+            "width": 480,
+            "height": 224
+          }
+        },
+        {
+          "id": "107:136",
+          "text": "e a distância inicial se mantém",
+          "box": {
+            "x": 860,
+            "y": 465.89990234375,
+            "width": 280,
+            "height": 71
+          }
+        },
+        {
+          "id": "107:138",
+          "text": "01",
+          "box": {
+            "x": 984.5,
+            "y": 158,
+            "width": 31,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:139",
+          "text": "Oportunidades desiguais",
+          "box": {
+            "x": 928,
+            "y": 204,
+            "width": 144,
+            "height": 58
+          }
+        },
+        {
+          "id": "107:141",
+          "text": "02",
+          "box": {
+            "x": 1301.5,
+            "y": 478,
+            "width": 37,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:142",
+          "text": "Códigos não aprendidos",
+          "box": {
+            "x": 1248,
+            "y": 524,
+            "width": 144,
+            "height": 58
+          }
+        },
+        {
+          "id": "107:144",
+          "text": "03",
+          "box": {
+            "x": 981.5,
+            "y": 783,
+            "width": 37,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:145",
+          "text": "Dificuldade lida como inferioridade",
+          "box": {
+            "x": 928,
+            "y": 829,
+            "width": 144,
+            "height": 87
+          }
+        },
+        {
+          "id": "107:147",
+          "text": "04",
+          "box": {
+            "x": 660,
+            "y": 463,
+            "width": 40,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:148",
+          "text": "Autolimitação e menos experiências",
+          "box": {
+            "x": 608,
+            "y": 509,
+            "width": 144,
+            "height": 87
+          }
+        },
+        {
+          "id": "107:150",
+          "text": "NÃO É INEVITÁVEL!",
+          "box": {
+            "x": 1114.80419921875,
+            "y": 770.8343687653542,
+            "width": 236.17627787590027,
+            "height": 64.25508970022202
+          }
+        },
+        {
+          "id": "I107:151;103:18",
+          "text": "15",
+          "box": {
+            "x": 1362.89990234375,
+            "y": 963,
+            "width": 14,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "107:153",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 14,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:155",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:157",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 16,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        },
+        {
+          "id": "chart-15-0",
+          "kind": "chart",
+          "label": "Um ciclo possível — diagrama",
+          "box": {
+            "x": 568,
+            "y": 80,
+            "width": 860,
+            "height": 880
+          },
+          "details": [
+            {
+              "id": "107:136",
+              "text": "e a distância inicial se mantém"
+            },
+            {
+              "id": "107:138",
+              "text": "01"
+            },
+            {
+              "id": "107:139",
+              "text": "Oportunidades desiguais"
+            },
+            {
+              "id": "107:141",
+              "text": "02"
+            },
+            {
+              "id": "107:142",
+              "text": "Códigos não aprendidos"
+            },
+            {
+              "id": "107:144",
+              "text": "03"
+            },
+            {
+              "id": "107:145",
+              "text": "Dificuldade lida como inferioridade"
+            },
+            {
+              "id": "107:147",
+              "text": "04"
+            },
+            {
+              "id": "107:148",
+              "text": "Autolimitação e menos experiências"
+            },
+            {
+              "id": "107:150",
+              "text": "NÃO É INEVITÁVEL!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "id": "107:159",
+      "title": "Democratização",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-16.svg",
+      "thumbnail": "assets/previews/page-16.webp",
+      "texts": [
+        {
+          "id": "107:163",
+          "text": "Democratizar\na cultura",
+          "box": {
+            "x": 92,
+            "y": 724,
+            "width": 386.20001220703125,
+            "height": 128
+          }
+        },
+        {
+          "id": "107:164",
+          "text": "RECONHECER E AMPLIAR REPERTÓRIOS",
+          "box": {
+            "x": 624,
+            "y": 63.5,
+            "width": 496,
+            "height": 34
+          }
+        },
+        {
+          "id": "107:166",
+          "text": "01",
+          "box": {
+            "x": 624,
+            "y": 151,
+            "width": 49,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:167",
+          "text": "ESCOLA",
+          "box": {
+            "x": 692.7998046875,
+            "y": 150.5,
+            "width": 92,
+            "height": 34
+          }
+        },
+        {
+          "id": "107:168",
+          "text": "A escola pode ensinar referências que não foram igualmente transmitidas pelas famílias, colocar saberes populares e eruditos em diálogo e desenvolver experiências continuadas de leitura, artes e criação.",
+          "box": {
+            "x": 692.7998046875,
+            "y": 192.199951171875,
+            "width": 291.20001220703125,
+            "height": 224
+          }
+        },
+        {
+          "id": "107:170",
+          "text": "02",
+          "box": {
+            "x": 1016,
+            "y": 151,
+            "width": 59,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:171",
+          "text": "MEDIAÇÃO CULTURAL",
+          "box": {
+            "x": 1095.2001953125,
+            "y": 150.5,
+            "width": 254,
+            "height": 34
+          }
+        },
+        {
+          "id": "107:172",
+          "text": "Bibliotecas e instituições culturais podem oferecer mediação sem pressupor conhecimentos prévios nem desqualificar as referências dos participantes.",
+          "box": {
+            "x": 1095.2001953125,
+            "y": 192.199951171875,
+            "width": 280.79998779296875,
+            "height": 192
+          }
+        },
+        {
+          "id": "107:174",
+          "text": "03",
+          "box": {
+            "x": 624,
+            "y": 449.199951171875,
+            "width": 59,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:175",
+          "text": "TERRITÓRIO E GRATUIDADE",
+          "box": {
+            "x": 703.2001953125,
+            "y": 448.699951171875,
+            "width": 280.79998779296875,
+            "height": 68
+          }
+        },
+        {
+          "id": "107:176",
+          "text": "Diante das distâncias e dos custos demonstrados, descentralização, transporte e gratuidade ajudam a tornar esses encontros recorrentes.",
+          "box": {
+            "x": 703.2001953125,
+            "y": 552.39990234375,
+            "width": 280.79998779296875,
+            "height": 160
+          }
+        },
+        {
+          "id": "107:178",
+          "text": "04",
+          "box": {
+            "x": 1016,
+            "y": 449.199951171875,
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:179",
+          "text": "INCLUSÃO DIGITAL",
+          "box": {
+            "x": 1095.2001953125,
+            "y": 448.699951171875,
+            "width": 218,
+            "height": 34
+          }
+        },
+        {
+          "id": "107:180",
+          "text": "Diante das diferenças digitais, computadores, conexão adequada e formação ampliam as condições de pesquisa e produção.",
+          "box": {
+            "x": 1095.2001953125,
+            "y": 490.39990234375,
+            "width": 280.79998779296875,
+            "height": 160
+          }
+        },
+        {
+          "id": "107:184",
+          "text": "CF/1988 · ARTS. 215–216",
+          "box": {
+            "x": 641,
+            "y": 742,
+            "width": 156,
+            "height": 24
+          }
+        },
+        {
+          "id": "107:185",
+          "text": "A mediação deve ampliar possibilidades, e o desconhecimento de determinados códigos não pode justificar inferiorização ou exclusão (Brasil, 1988; Chauí, 2006).",
+          "box": {
+            "x": 641,
+            "y": 769.5,
+            "width": 200.6999969482422,
+            "height": 140
+          }
+        },
+        {
+          "id": "107:187",
+          "text": "CIDADANIA CULTURAL",
+          "box": {
+            "x": 900,
+            "y": 742,
+            "width": 138,
+            "height": 24
+          }
+        },
+        {
+          "id": "107:188",
+          "text": "O caso de Emicida aponta a importância da ocupação institucional; a cidadania cultural exige que a presença se estenda à capacidade de decidir (Chauí, 2006).",
+          "box": {
+            "x": 900,
+            "y": 769.5,
+            "width": 200.6999969482422,
+            "height": 120
+          }
+        },
+        {
+          "id": "107:190",
+          "text": "CURADORIA E FINANCIAMENTO",
+          "box": {
+            "x": 1158,
+            "y": 742,
+            "width": 193,
+            "height": 24
+          }
+        },
+        {
+          "id": "107:191",
+          "text": "Para enfrentar a desigualdade de legitimação, também é necessário ampliar a participação de artistas e coletivos negros, indígenas, populares e periféricos na programação, na curadoria e nas decisões de financiamento.",
+          "box": {
+            "x": 1158,
+            "y": 769.5,
+            "width": 200.6999969482422,
+            "height": 160
+          }
+        },
+        {
+          "id": "I107:192;103:18",
+          "text": "16",
+          "box": {
+            "x": 1362.10009765625,
+            "y": 963,
+            "width": 15,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "107:160",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 560,
+            "height": 1027
+          }
+        },
+        {
+          "id": "107:194",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 15,
+          "box": {
+            "x": 572.2001953125,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:196",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:198",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 17,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "id": "107:200",
+      "title": "Iniciativa em destaque",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-17.svg",
+      "thumbnail": "assets/previews/page-17.webp",
+      "texts": [
+        {
+          "id": "107:202",
+          "text": "INSTITUTO BACCARELLI",
+          "box": {
+            "x": 352.5,
+            "y": 112,
+            "width": 735,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:207",
+          "text": "eliópolis, na zona sul de São Paulo, é o ponto de partida do Instituto Baccarelli, criado em 1996 depois de um incêndio que deixou centenas de",
+          "box": {
+            "x": 691.9000244140625,
+            "y": 223.2001953125,
+            "width": 292.1000061035156,
+            "height": 160
+          }
+        },
+        {
+          "id": "107:208",
+          "text": "famílias desamparadas. Começou com 36 crianças.",
+          "box": {
+            "x": 624,
+            "y": 381.60009765625,
+            "width": 360,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:209",
+          "text": "H",
+          "box": {
+            "x": 624,
+            "y": 229.60009765625,
+            "width": 64,
+            "height": 77
+          }
+        },
+        {
+          "id": "107:210",
+          "text": "Hoje atende cerca de 1.600 alunos.",
+          "box": {
+            "x": 624,
+            "y": 457.7998046875,
+            "width": 360,
+            "height": 32
+          }
+        },
+        {
+          "id": "107:211",
+          "text": "No núcleo de Heliópolis, são mais de 300 turmas e quatro grupos artísticos.",
+          "box": {
+            "x": 624,
+            "y": 502.5,
+            "width": 360,
+            "height": 64
+          }
+        },
+        {
+          "id": "198:163",
+          "text": "Em 2021, venceu o Prêmio de Inovação da Classical:NEXT (Concerto, 2021).",
+          "box": {
+            "x": 624,
+            "y": 580,
+            "width": 360,
+            "height": 64
+          }
+        },
+        {
+          "id": "107:212",
+          "text": "A Orquestra Sinfônica Heliópolis, apontada como a primeira orquestra formada em uma favela, convive com o Coral Heliópolis, o Coral Jovem Heliópolis e a Orquestra Juvenil Heliópolis. Os alunos frequentam a instituição de quatro a cinco dias por semana, no contraturno escolar, e precisam estar matriculados na escola. Psicólogos acompanham os estudantes (Propmark, 2026).",
+          "box": {
+            "x": 1016,
+            "y": 223.2001953125,
+            "width": 360,
+            "height": 320
+          }
+        },
+        {
+          "id": "198:164",
+          "text": "O prêmio reconheceu o Tocando Juntos por Heliópolis, que arrecadou alimentos na pandemia (Concerto, 2021).",
+          "box": {
+            "x": 1016,
+            "y": 557,
+            "width": 360,
+            "height": 96
+          }
+        },
+        {
+          "id": "107:219",
+          "text": "Fonte: Propmark, 6 abr. 2026. Imagens: Instituto Baccarelli/Wikimedia Commons (CC BY-SA 4.0); Concerto (2021); CPP (2017).",
+          "box": {
+            "x": 64,
+            "y": 919.10009765625,
+            "width": 719,
+            "height": 20
+          }
+        },
+        {
+          "id": "I107:220;103:18",
+          "text": "17",
+          "box": {
+            "x": 1362.800048828125,
+            "y": 963,
+            "width": 13,
+            "height": 29
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "107:203",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 64,
+            "y": 224,
+            "width": 496,
+            "height": 416
+          }
+        },
+        {
+          "id": "107:213",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 64,
+            "y": 680,
+            "width": 421.29998779296875,
+            "height": 232
+          }
+        },
+        {
+          "id": "107:215",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 509.29998779296875,
+            "y": 680,
+            "width": 421.29998779296875,
+            "height": 232
+          }
+        },
+        {
+          "id": "107:217",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 954.7000122070312,
+            "y": 680,
+            "width": 421.29998779296875,
+            "height": 232
+          }
+        },
+        {
+          "id": "107:222",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 16,
+          "box": {
+            "x": 572.2000122070312,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:224",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.0999755859375,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:226",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 18,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "id": "107:228",
+      "title": "Iniciativas",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-18.svg",
+      "thumbnail": "assets/previews/page-18.webp",
+      "texts": [
+        {
+          "id": "107:231",
+          "text": "SARAU DA COOPERIFA",
+          "box": {
+            "x": 64,
+            "y": 450.5,
+            "width": 496,
+            "height": 48
+          }
+        },
+        {
+          "id": "107:232",
+          "text": "No bar do Zé Batidão, na periferia de São Paulo, o Sarau da Cooperifa reúne poetas e público em torno da leitura e da declamação de poesia. Em uma noite de julho de 2008, Sérgio Vaz registrou cerca de 400 pessoas, muitas delas na primeira vez, vindas de vários bairros, e cerca de 50 poetas da Cooperifa, com o público em silêncio e atento (Vaz, 2008).",
+          "box": {
+            "x": 64,
+            "y": 599.2001953125,
+            "width": 496,
+            "height": 224
+          }
+        },
+        {
+          "id": "107:234",
+          "text": "ATELIÊ DA PALAVRA",
+          "box": {
+            "x": 644,
+            "y": 127.89990234375,
+            "width": 267,
+            "height": 36
+          }
+        },
+        {
+          "id": "107:235",
+          "text": "Oficina gratuita da USP (Centro Maria Antonia) de leitura e escrita poética, com passeios por espaços públicos (Jornal da USP, 2022).",
+          "box": {
+            "x": 644,
+            "y": 174.39990234375,
+            "width": 400,
+            "height": 96
+          }
+        },
+        {
+          "id": "107:241",
+          "text": "PROJETO GURI",
+          "box": {
+            "x": 956,
+            "y": 399.89990234375,
+            "width": 190,
+            "height": 36
+          }
+        },
+        {
+          "id": "107:242",
+          "text": "Aulas gratuitas de música para crianças e adolescentes de 6 a 18 anos incompletos, no contraturno escolar (Gazeta SP, 2019).",
+          "box": {
+            "x": 956,
+            "y": 446.39990234375,
+            "width": 400,
+            "height": 96
+          }
+        },
+        {
+          "id": "107:244",
+          "text": "PONTOS DE CULTURA",
+          "box": {
+            "x": 644,
+            "y": 671.89990234375,
+            "width": 281,
+            "height": 36
+          }
+        },
+        {
+          "id": "107:245",
+          "text": "A Lei n. 15.481/2026 define critérios para parcerias entre pontos de cultura e escolas de educação básica, com preferência a pontos próximos da comunidade escolar (Brasil, 2026).",
+          "box": {
+            "x": 644,
+            "y": 718.39990234375,
+            "width": 400,
+            "height": 128
+          }
+        },
+        {
+          "id": "I107:248;103:18",
+          "text": "18",
+          "box": {
+            "x": 1362.199951171875,
+            "y": 963,
+            "width": 15,
+            "height": 29
+          }
+        },
+        {
+          "id": "198:165",
+          "text": "Imagens: TV Gazeta ([s.d.]), Sarau da Cooperifa; Jornal da USP (2022), Ateliê da Palavra.",
+          "box": {
+            "x": 64,
+            "y": 919.10009765625,
+            "width": 511,
+            "height": 20
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "107:229",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 560,
+            "height": 403
+          }
+        },
+        {
+          "id": "107:236",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 1076,
+            "y": 84,
+            "width": 280,
+            "height": 208
+          }
+        },
+        {
+          "id": "107:239",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 644,
+            "y": 356,
+            "width": 280,
+            "height": 208
+          }
+        },
+        {
+          "id": "107:246",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 1076,
+            "y": 628,
+            "width": 280,
+            "height": 208
+          }
+        },
+        {
+          "id": "107:250",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 17,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:252",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:254",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 19,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "id": "107:256",
+      "title": "Referências",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-19.svg",
+      "thumbnail": "assets/previews/page-19.webp",
+      "texts": [
+        {
+          "id": "107:257",
+          "text": "Referências",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 429,
+            "height": 96
+          }
+        },
+        {
+          "id": "107:259",
+          "text": "BOURDIEU, Pierre. Outline of a Sociological Theory of Art Perception. International Social Science Journal, [S. l.], v. 20, n. 4, p. 589–612, 1968. Disponível em: https://web.mit.edu/allanmc/www/bourdieu3.pdf. Acesso em: 9 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 354,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "107:260",
+          "text": "BOURDIEU, Pierre. Les trois états du capital culturel. Actes de la recherche en sciences sociales, [S. l.], v. 30, p. 3–6, 1979. DOI: https://doi.org/10.3406/arss.1979.2654. Disponível em: https://www.persee.fr/doc/arss_0335-5322_1979_num_30_1_2654. Acesso em: 14 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 270,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "107:261",
+          "text": "BOURDIEU, Pierre. O poder simbólico. Lisboa: Difel, 1989.",
+          "box": {
+            "x": 64,
+            "y": 328,
+            "width": 624,
+            "height": 16
+          }
+        },
+        {
+          "id": "160:196",
+          "text": "BONILHA, Patrícia. Arandu: temos muito o que aprender com a sabedoria indígena. Greenpeace Brasil, [S. l.], 9 ago. 2020. Disponível em: https://www.greenpeace.org/brasil/blog/arandu-temos-muito-o-que-aprender-com-a-sabedoria-indigena/. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 212,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "107:263",
+          "text": "BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília, DF: Presidência da República, 1988. Arts. 215–216. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm. Acesso em: 8 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 396,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "107:266",
+          "text": "BRASIL. Lei n. 15.481, de 31 de julho de 2026. Brasília, DF: Presidência da República, 2026. Disponível em: https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15481.htm. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 438,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "185:160",
+          "text": "CONCERTO. Instituto Baccarelli vence prêmio de inovação da Classical:NEXT. Concerto, [S.l.], 23 dez. 2021. Disponível em: https://www.concerto.com.br/noticias/politica-cultural/instituto-baccarelli-vence-premio-de-inovacao-da-classicalnext. Acesso em: 17 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 506,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "198:160",
+          "text": "CPP. Orquestra Juvenil Heliópólis do Instituto Baccarelli no MASP. CPP, [S.l.], 16 ago. 2017. Disponível em: https://cpp.org.br/orquestra-juvenil-heliopolis-do-instituto-baccarelli-no-masp/. Acesso em: 17 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 564,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "I107:277;103:18",
+          "text": "19",
+          "box": {
+            "x": 1362.10009765625,
+            "y": 963,
+            "width": 15,
+            "height": 29
+          }
+        },
+        {
+          "id": "174:1017",
+          "text": "VAZ, Sérgio. Os quatrocentos do Sarau da Cooperifa. Le Monde Diplomatique Brasil, [S. l.], 24 jul. 2008. Disponível em: https://diplomatique.org.br/os-quatrocentos-do-sarau-da-cooperifa/. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 776,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "174:1018",
+          "text": "PROPMARK. Instituto Baccarelli transforma Favela de Heliópolis com cultura e música. Propmark, [S. l.], 6 abr. 2026. Disponível em: https://propmark.com.br/mercado/instituto-baccarelli-transforma-favela-de-heliopolis-com-cultura-e-musica/. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 544,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1019",
+          "text": "IBGE. Sistema de Informações e Indicadores Culturais 2011–2022. Rio de Janeiro: IBGE, 2023. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102053_informativo.pdf. Acesso em: 9 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 816,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "177:1034",
+          "text": "IBGE. Educação 2025: PNAD Contínua. Rio de Janeiro: IBGE, 2026. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102286_informativo.pdf. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 732,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "177:1035",
+          "text": "IBGE. Outras formas de trabalho 2022: PNAD Contínua. Rio de Janeiro: IBGE, 2023. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102020_informativo.pdf. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 774,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "174:1020",
+          "text": "IPEA. Desigualdades raciais, racismo e políticas públicas: 120 anos após a abolição. [S. l.]: Ipea, 13 maio 2008. (Comunicados da Presidência, n. 4). Disponível em: https://repositorio.ipea.gov.br/handle/11058/4729. Acesso em: 8 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 212,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1021",
+          "text": "JLEIVA CULTURA & ESPORTE; DATAFOLHA. Cultura nas Capitais: principais conclusões. [S. l.]: JLeiva Cultura & Esporte, 2026. Pesquisa de campo realizada em 2024. Disponível em: https://culturanascapitais.com.br/wp-content/uploads/2026/03/Cultura_nas_Capitais_Principais_conclusoes.pdf. Acesso em: 9 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 270,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1022",
+          "text": "NIC.BR; CETIC.BR. TIC Domicílios 2024: resumo executivo. São Paulo: NIC.br, 2025. Disponível em: https://cetic.br/media/docs/publicacoes/2/20250512115624/tic_domicilios_2024_resumo_executivo.pdf. Acesso em: 9 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 386,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "174:1023",
+          "text": "NOGUEIRA, Maria Alice. O capital cultural e a produção das desigualdades escolares contemporâneas. Cadernos de Pesquisa, São Paulo, v. 51, e07468, 2021. DOI: https://doi.org/10.1590/198053147468. Disponível em: https://www.scielo.br/j/cp/a/pdTJTSCfQhzpWjZSGGy8gqK/. Acesso em: 14 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 428,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1024",
+          "text": "PODPAH. Mano Brown — Podpah #351. [S. l.]: Podpah, 7 mar. 2022. 1 vídeo. YouTube. Trecho transcrito fornecido e confirmado pelos autores do trabalho. Disponível em: https://www.youtube.com/watch?v=aahyLNH4PrE. Acesso em: 8 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 486,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1025",
+          "text": "ROCHA, Igor. Exaltando a negritude, Emicida faz show emocionado no Theatro Municipal de São Paulo. Notícia Preta, [S. l.], 28 nov. 2019. Disponível em: https://noticiapreta.com.br/exaltando-a-negritude-emicida-faz-show-emocionado-no-theatro-municipal-de-sao-paulo/. Acesso em: 9 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 602,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "198:161",
+          "text": "TV GAZETA. Extremo Sul de SP guarda Sarau da Cooperifa. Jornal da Gazeta, [S.l.], [s.d.]. Disponível em: https://www.tvgazeta.com.br/videos/extremo-sul-de-sp-guarda-sarau-da-cooperifa/. Acesso em: 17 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 660,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "198:162",
+          "text": "JORNAL DA USP. Projeto da USP abre inscrições para oficinas de escrita criativa com passeios públicos. Jornal da USP, [S.l.], 25 jul. 2022. Disponível em: https://jornal.usp.br/universidade/projeto-da-usp-abre-inscricoes-para-oficinas-de-escrita-criativa-com-passeios-publicos/. Acesso em: 17 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 328,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1026",
+          "text": "VASCONCELLOS, Eduardo Alcântara de. Mobilidade cotidiana, segregação urbana e exclusão. In: BALBIM, Renato; KRAUSE, Cleandro; LINKE, Clarisse Cunha (org.). Cidade e movimento: mobilidades e interações no desenvolvimento urbano. Brasília, DF: Ipea; ITDP, 2016. p. 57–79. Disponível em: https://repositorio.ipea.gov.br/handle/11058/19594. Acesso em: 8 out. 2026.",
+          "box": {
+            "x": 752,
+            "y": 702,
+            "width": 624,
+            "height": 64
+          }
+        },
+        {
+          "id": "174:1028",
+          "text": "CHAUÍ, Marilena. Cidadania cultural: o direito à cultura. São Paulo: Fundação Perseu Abramo, 2006.",
+          "box": {
+            "x": 64,
+            "y": 480,
+            "width": 624,
+            "height": 16
+          }
+        },
+        {
+          "id": "174:1029",
+          "text": "DURKHEIM, Émile. Educação e sociologia. Petrópolis: Vozes, 2011.",
+          "box": {
+            "x": 64,
+            "y": 606,
+            "width": 624,
+            "height": 16
+          }
+        },
+        {
+          "id": "174:1030",
+          "text": "FUNDAÇÃO ITAÚ; DATAFOLHA. Hábitos Culturais. 6. ed. [S. l.]: Fundação Itaú, 2025. Disponível em: https://s3.sa-east-1.amazonaws.com/prd.editor.fundacaoitau.org.br/public/otherfile/519/file/46de1383497888b5266c22b1630822fa.pdf. Acesso em: 9 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 632,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "174:1032",
+          "text": "GAZETA SP. Projeto sociocultural abre vagas para cursos gratuitos. Gazeta SP, [S. l.], 14 nov. 2019. Disponível em: https://www.gazetasp.com.br/cotidiano/projeto-sociocultural-abre-vagas-para-cursos-gratuitos/. Acesso em: 16 out. 2026.",
+          "box": {
+            "x": 64,
+            "y": 690,
+            "width": 624,
+            "height": 32
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "link-107:259",
+          "kind": "link",
+          "label": "BOURDIEU, Pierre. Outline of a Sociological Theory of Art Perception. International Social Science Journal, [S. l.], v. 20, n. 4, p. 589–612, 1968. Disponível em: https://web.mit.edu/allanmc/www/bourdieu3.pdf. Acesso em: 9 out. 2026.",
+          "href": "https://web.mit.edu/allanmc/www/bourdieu3.pdf",
+          "box": {
+            "x": 64,
+            "y": 354,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-107:260",
+          "kind": "link",
+          "label": "BOURDIEU, Pierre. Les trois états du capital culturel. Actes de la recherche en sciences sociales, [S. l.], v. 30, p. 3–6, 1979. DOI: https://doi.org/10.3406/arss.1979.2654. Disponível em: https://www.persee.fr/doc/arss_0335-5322_1979_num_30_1_2654. Acesso em: 14 out. 2026.",
+          "href": "https://doi.org/10.3406/arss.1979.2654",
+          "box": {
+            "x": 64,
+            "y": 270,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-160:196",
+          "kind": "link",
+          "label": "BONILHA, Patrícia. Arandu: temos muito o que aprender com a sabedoria indígena. Greenpeace Brasil, [S. l.], 9 ago. 2020. Disponível em: https://www.greenpeace.org/brasil/blog/arandu-temos-muito-o-que-aprender-com-a-sabedoria-indigena/. Acesso em: 16 out. 2026.",
+          "href": "https://www.greenpeace.org/brasil/blog/arandu-temos-muito-o-que-aprender-com-a-sabedoria-indigena/",
+          "box": {
+            "x": 64,
+            "y": 212,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-107:263",
+          "kind": "link",
+          "label": "BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília, DF: Presidência da República, 1988. Arts. 215–216. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm. Acesso em: 8 out. 2026.",
+          "href": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "box": {
+            "x": 64,
+            "y": 396,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-107:266",
+          "kind": "link",
+          "label": "BRASIL. Lei n. 15.481, de 31 de julho de 2026. Brasília, DF: Presidência da República, 2026. Disponível em: https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15481.htm. Acesso em: 16 out. 2026.",
+          "href": "https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15481.htm",
+          "box": {
+            "x": 64,
+            "y": 438,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-185:160",
+          "kind": "link",
+          "label": "CONCERTO. Instituto Baccarelli vence prêmio de inovação da Classical:NEXT. Concerto, [S.l.], 23 dez. 2021. Disponível em: https://www.concerto.com.br/noticias/politica-cultural/instituto-baccarelli-vence-premio-de-inovacao-da-classicalnext. Acesso em: 17 out. 2026.",
+          "href": "https://www.concerto.com.br/noticias/politica-cultural/instituto-baccarelli-vence-premio-de-inovacao-da-classicalnext",
+          "box": {
+            "x": 64,
+            "y": 506,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-198:160",
+          "kind": "link",
+          "label": "CPP. Orquestra Juvenil Heliópólis do Instituto Baccarelli no MASP. CPP, [S.l.], 16 ago. 2017. Disponível em: https://cpp.org.br/orquestra-juvenil-heliopolis-do-instituto-baccarelli-no-masp/. Acesso em: 17 out. 2026.",
+          "href": "https://cpp.org.br/orquestra-juvenil-heliopolis-do-instituto-baccarelli-no-masp/",
+          "box": {
+            "x": 64,
+            "y": 564,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "107:279",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 18,
+          "box": {
+            "x": 572.199951171875,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:281",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 678.10009765625,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:283",
+          "kind": "navigate",
+          "label": "PRÓXIMA ›",
+          "target": 20,
+          "box": {
+            "x": 772,
+            "y": 963,
+            "width": 98,
+            "height": 40
+          }
+        },
+        {
+          "id": "link-174:1017",
+          "kind": "link",
+          "label": "VAZ, Sérgio. Os quatrocentos do Sarau da Cooperifa. Le Monde Diplomatique Brasil, [S. l.], 24 jul. 2008. Disponível em: https://diplomatique.org.br/os-quatrocentos-do-sarau-da-cooperifa/. Acesso em: 16 out. 2026.",
+          "href": "https://diplomatique.org.br/os-quatrocentos-do-sarau-da-cooperifa/",
+          "box": {
+            "x": 752,
+            "y": 776,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-174:1018",
+          "kind": "link",
+          "label": "PROPMARK. Instituto Baccarelli transforma Favela de Heliópolis com cultura e música. Propmark, [S. l.], 6 abr. 2026. Disponível em: https://propmark.com.br/mercado/instituto-baccarelli-transforma-favela-de-heliopolis-com-cultura-e-musica/. Acesso em: 16 out. 2026.",
+          "href": "https://propmark.com.br/mercado/instituto-baccarelli-transforma-favela-de-heliopolis-com-cultura-e-musica/",
+          "box": {
+            "x": 752,
+            "y": 544,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1019",
+          "kind": "link",
+          "label": "IBGE. Sistema de Informações e Indicadores Culturais 2011–2022. Rio de Janeiro: IBGE, 2023. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102053_informativo.pdf. Acesso em: 9 out. 2026.",
+          "href": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102053_informativo.pdf",
+          "box": {
+            "x": 64,
+            "y": 816,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-177:1034",
+          "kind": "link",
+          "label": "IBGE. Educação 2025: PNAD Contínua. Rio de Janeiro: IBGE, 2026. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102286_informativo.pdf. Acesso em: 16 out. 2026.",
+          "href": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102286_informativo.pdf",
+          "box": {
+            "x": 64,
+            "y": 732,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-177:1035",
+          "kind": "link",
+          "label": "IBGE. Outras formas de trabalho 2022: PNAD Contínua. Rio de Janeiro: IBGE, 2023. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102020_informativo.pdf. Acesso em: 16 out. 2026.",
+          "href": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102020_informativo.pdf",
+          "box": {
+            "x": 64,
+            "y": 774,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-174:1020",
+          "kind": "link",
+          "label": "IPEA. Desigualdades raciais, racismo e políticas públicas: 120 anos após a abolição. [S. l.]: Ipea, 13 maio 2008. (Comunicados da Presidência, n. 4). Disponível em: https://repositorio.ipea.gov.br/handle/11058/4729. Acesso em: 8 out. 2026.",
+          "href": "https://repositorio.ipea.gov.br/handle/11058/4729",
+          "box": {
+            "x": 752,
+            "y": 212,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1021",
+          "kind": "link",
+          "label": "JLEIVA CULTURA & ESPORTE; DATAFOLHA. Cultura nas Capitais: principais conclusões. [S. l.]: JLeiva Cultura & Esporte, 2026. Pesquisa de campo realizada em 2024. Disponível em: https://culturanascapitais.com.br/wp-content/uploads/2026/03/Cultura_nas_Capitais_Principais_conclusoes.pdf. Acesso em: 9 out. 2026.",
+          "href": "https://culturanascapitais.com.br/wp-content/uploads/2026/03/Cultura_nas_Capitais_Principais_conclusoes.pdf",
+          "box": {
+            "x": 752,
+            "y": 270,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1022",
+          "kind": "link",
+          "label": "NIC.BR; CETIC.BR. TIC Domicílios 2024: resumo executivo. São Paulo: NIC.br, 2025. Disponível em: https://cetic.br/media/docs/publicacoes/2/20250512115624/tic_domicilios_2024_resumo_executivo.pdf. Acesso em: 9 out. 2026.",
+          "href": "https://cetic.br/media/docs/publicacoes/2/20250512115624/tic_domicilios_2024_resumo_executivo.pdf",
+          "box": {
+            "x": 752,
+            "y": 386,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-174:1023",
+          "kind": "link",
+          "label": "NOGUEIRA, Maria Alice. O capital cultural e a produção das desigualdades escolares contemporâneas. Cadernos de Pesquisa, São Paulo, v. 51, e07468, 2021. DOI: https://doi.org/10.1590/198053147468. Disponível em: https://www.scielo.br/j/cp/a/pdTJTSCfQhzpWjZSGGy8gqK/. Acesso em: 14 out. 2026.",
+          "href": "https://doi.org/10.1590/198053147468",
+          "box": {
+            "x": 752,
+            "y": 428,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1024",
+          "kind": "link",
+          "label": "PODPAH. Mano Brown — Podpah #351. [S. l.]: Podpah, 7 mar. 2022. 1 vídeo. YouTube. Trecho transcrito fornecido e confirmado pelos autores do trabalho. Disponível em: https://www.youtube.com/watch?v=aahyLNH4PrE. Acesso em: 8 out. 2026.",
+          "href": "https://www.youtube.com/watch?v=aahyLNH4PrE",
+          "box": {
+            "x": 752,
+            "y": 486,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1025",
+          "kind": "link",
+          "label": "ROCHA, Igor. Exaltando a negritude, Emicida faz show emocionado no Theatro Municipal de São Paulo. Notícia Preta, [S. l.], 28 nov. 2019. Disponível em: https://noticiapreta.com.br/exaltando-a-negritude-emicida-faz-show-emocionado-no-theatro-municipal-de-sao-paulo/. Acesso em: 9 out. 2026.",
+          "href": "https://noticiapreta.com.br/exaltando-a-negritude-emicida-faz-show-emocionado-no-theatro-municipal-de-sao-paulo/",
+          "box": {
+            "x": 752,
+            "y": 602,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-198:161",
+          "kind": "link",
+          "label": "TV GAZETA. Extremo Sul de SP guarda Sarau da Cooperifa. Jornal da Gazeta, [S.l.], [s.d.]. Disponível em: https://www.tvgazeta.com.br/videos/extremo-sul-de-sp-guarda-sarau-da-cooperifa/. Acesso em: 17 out. 2026.",
+          "href": "https://www.tvgazeta.com.br/videos/extremo-sul-de-sp-guarda-sarau-da-cooperifa/",
+          "box": {
+            "x": 752,
+            "y": 660,
+            "width": 624,
+            "height": 32
+          }
+        },
+        {
+          "id": "link-198:162",
+          "kind": "link",
+          "label": "JORNAL DA USP. Projeto da USP abre inscrições para oficinas de escrita criativa com passeios públicos. Jornal da USP, [S.l.], 25 jul. 2022. Disponível em: https://jornal.usp.br/universidade/projeto-da-usp-abre-inscricoes-para-oficinas-de-escrita-criativa-com-passeios-publicos/. Acesso em: 17 out. 2026.",
+          "href": "https://jornal.usp.br/universidade/projeto-da-usp-abre-inscricoes-para-oficinas-de-escrita-criativa-com-passeios-publicos/",
+          "box": {
+            "x": 752,
+            "y": 328,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1026",
+          "kind": "link",
+          "label": "VASCONCELLOS, Eduardo Alcântara de. Mobilidade cotidiana, segregação urbana e exclusão. In: BALBIM, Renato; KRAUSE, Cleandro; LINKE, Clarisse Cunha (org.). Cidade e movimento: mobilidades e interações no desenvolvimento urbano. Brasília, DF: Ipea; ITDP, 2016. p. 57–79. Disponível em: https://repositorio.ipea.gov.br/handle/11058/19594. Acesso em: 8 out. 2026.",
+          "href": "https://repositorio.ipea.gov.br/handle/11058/19594",
+          "box": {
+            "x": 752,
+            "y": 702,
+            "width": 624,
+            "height": 64
+          }
+        },
+        {
+          "id": "link-174:1030",
+          "kind": "link",
+          "label": "FUNDAÇÃO ITAÚ; DATAFOLHA. Hábitos Culturais. 6. ed. [S. l.]: Fundação Itaú, 2025. Disponível em: https://s3.sa-east-1.amazonaws.com/prd.editor.fundacaoitau.org.br/public/otherfile/519/file/46de1383497888b5266c22b1630822fa.pdf. Acesso em: 9 out. 2026.",
+          "href": "https://s3.sa-east-1.amazonaws.com/prd.editor.fundacaoitau.org.br/public/otherfile/519/file/46de1383497888b5266c22b1630822fa.pdf",
+          "box": {
+            "x": 64,
+            "y": 632,
+            "width": 624,
+            "height": 48
+          }
+        },
+        {
+          "id": "link-174:1032",
+          "kind": "link",
+          "label": "GAZETA SP. Projeto sociocultural abre vagas para cursos gratuitos. Gazeta SP, [S. l.], 14 nov. 2019. Disponível em: https://www.gazetasp.com.br/cotidiano/projeto-sociocultural-abre-vagas-para-cursos-gratuitos/. Acesso em: 16 out. 2026.",
+          "href": "https://www.gazetasp.com.br/cotidiano/projeto-sociocultural-abre-vagas-para-cursos-gratuitos/",
+          "box": {
+            "x": 64,
+            "y": 690,
+            "width": 624,
+            "height": 32
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "id": "107:285",
+      "title": "Contracapa",
+      "width": 1440,
+      "height": 1024,
+      "svg": "assets/pages/page-20.svg",
+      "thumbnail": "assets/previews/page-20.webp",
+      "texts": [
+        {
+          "id": "107:292",
+          "text": "Arandu",
+          "box": {
+            "x": 927.5,
+            "y": 72,
+            "width": 288,
+            "height": 96
+          }
+        },
+        {
+          "id": "107:293",
+          "text": "#001",
+          "box": {
+            "x": 768,
+            "y": 215.5,
+            "width": 59,
+            "height": 32
+          }
+        },
+        {
+          "id": "107:295",
+          "text": "REVISTA",
+          "box": {
+            "x": 985.5,
+            "y": 183.5,
+            "width": 300,
+            "height": 96
+          }
+        },
+        {
+          "id": "107:296",
+          "text": "Você sabia? Arandu é uma palavra do tupi guarani, termo associado aos povos Kaiowá e Guarani que, em geral, pode ser resumido como “sabedoria” (Bonilha, 2020).",
+          "box": {
+            "x": 768,
+            "y": 383.89990234375,
+            "width": 608,
+            "height": 144
+          }
+        },
+        {
+          "id": "107:299",
+          "text": "Direito à cultura no Brasil\noutubro de 2026",
+          "box": {
+            "x": 1146,
+            "y": 870,
+            "width": 230,
+            "height": 58
+          }
+        }
+      ],
+      "hotspots": [
+        {
+          "id": "107:286",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 64,
+            "y": 64,
+            "width": 640,
+            "height": 432
+          }
+        },
+        {
+          "id": "107:288",
+          "kind": "image",
+          "label": "Ampliar imagem original",
+          "box": {
+            "x": 64,
+            "y": 512,
+            "width": 640,
+            "height": 432
+          }
+        },
+        {
+          "id": "107:300",
+          "kind": "navigate",
+          "label": "‹ ANTERIOR",
+          "target": 19,
+          "box": {
+            "x": 579.5,
+            "y": 963,
+            "width": 106,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:302",
+          "kind": "navigate",
+          "label": "SUMÁRIO",
+          "target": 3,
+          "box": {
+            "x": 685.2998046875,
+            "y": 963,
+            "width": 88,
+            "height": 40
+          }
+        },
+        {
+          "id": "107:304",
+          "kind": "navigate",
+          "label": "CAPA ↺",
+          "target": 1,
+          "box": {
+            "x": 779.2998046875,
+            "y": 963,
+            "width": 89,
+            "height": 40
+          }
+        }
+      ]
+    }
+  ]
+}

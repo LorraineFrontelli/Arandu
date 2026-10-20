@@ -1,0 +1,6 @@
+@font-face { font-family: 'Barlow Condensed'; font-style: normal; font-weight: 600; font-display: block; src: url('/assets/fonts/font-01.ttf') format('truetype'); }
+@font-face { font-family: 'Barlow Condensed'; font-style: normal; font-weight: 800; font-display: block; src: url('/assets/fonts/font-02.ttf') format('truetype'); }
+@font-face { font-family: 'Barlow Condensed'; font-style: normal; font-weight: 900; font-display: block; src: url('/assets/fonts/font-03.ttf') format('truetype'); }
+@font-face { font-family: 'Bodoni Moda'; font-style: normal; font-weight: 400; font-display: block; src: url('/assets/fonts/font-04.ttf') format('truetype'); }
+@font-face { font-family: 'Playfair'; font-style: normal; font-weight: 300 900; font-stretch: 100%; font-display: block; src: url('/assets/fonts/Playfair-variable.ttf') format('truetype'); }
+@font-face { font-family: 'Playfair'; font-style: italic; font-weight: 300 900; font-stretch: 100%; font-display: block; src: url('/assets/fonts/Playfair-Italic-variable.ttf') format('truetype'); }

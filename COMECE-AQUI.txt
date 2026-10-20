@@ -1,0 +1,34 @@
+REVISTA ARANDU 3D — PROJETO COMPLETO
+
+1. Extraia todo o ZIP, mantendo esta pasta e suas subpastas.
+2. No VS Code: Arquivo > Abrir Pasta > revista-direito-a-cultura.
+   É a pasta que contém package.json. Não abra somente a pasta src.
+3. Com Node.js 24 instalado, abra Terminal > Novo Terminal e execute:
+
+   npm ci
+   npm run dev
+
+4. Abra no navegador o endereço exibido pelo terminal.
+   Clique na capa para abrir. Leia a página esquerda, avance para a direita
+   e avance outra vez para virar a folha. A página ativa fica inteira na tela.
+5. Para conferir e gerar a versão publicável:
+
+   npm run verify
+   npm run build
+   npm run preview
+
+LEIA TAMBÉM
+
+README.md — uso, tecnologias, edição e publicação no GitHub Pages.
+ARQUITETURA.txt — árvore exata de todos os arquivos deste ZIP.
+src/components/PageTurner.tsx — virada de folhas e capa.
+src/components/BookVolume.tsx — volume tridimensional do miolo.
+src/styles/desk.css — mesa, perspectiva, espessura, iluminação e sombras.
+src/utils/bookGeometry.ts — correspondência de frente/verso e aberturas.
+.github/workflows/deploy.yml — publicação estática, sem token pessoal.
+
+O build está em dist/. Não abra index.html por duplo clique: use os
+comandos acima ou publique o build em um servidor estático.
+
+As imagens e fontes já acompanham o projeto. Os leitores não precisam de
+login, backend ou token. Nada foi publicado ou enviado à sua conta do GitHub.

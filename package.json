@@ -1,0 +1,27 @@
+{
+  "name": "revista-direito-a-cultura",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "verify": "node scripts/verify-content.mjs && node scripts/verify-book.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "1.59.0",
+    "page-flip": "2.0.7",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "typescript": "7.0.2",
+    "vite": "8.3.4"
+  }
+}

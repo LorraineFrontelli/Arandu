@@ -1,0 +1,261 @@
+ARQUITETURA EXATA — REVISTA ARANDU 3D — REVISÃO 2
+
+Leitura esquerda → direita → virada; ampliação em pop-up limpo.
+Inclui código-fonte, recursos locais e dist/. Sem node_modules ou credenciais.
+
+revista-direito-a-cultura/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── dist/
+│   ├── assets/
+│   │   ├── fonts/
+│   │   │   ├── font-01.ttf
+│   │   │   ├── font-02.ttf
+│   │   │   ├── font-03.ttf
+│   │   │   ├── font-04.ttf
+│   │   │   ├── LICENSE-BarlowCondensed.txt
+│   │   │   ├── LICENSE-BodoniModa.txt
+│   │   │   ├── LICENSE-Playfair.txt
+│   │   │   ├── Playfair-Italic-variable.ttf
+│   │   │   └── Playfair-variable.ttf
+│   │   ├── images/
+│   │   │   ├── 05566fbecaa74c93bda6.webp
+│   │   │   ├── 073609b25beedfe7e0be.webp
+│   │   │   ├── 083c41c64bbcde06ad6a.webp
+│   │   │   ├── 0bec9177dd25d9c95d37.webp
+│   │   │   ├── 0d6545e75153416a59b5.webp
+│   │   │   ├── 1451058976fd6bedefd2.webp
+│   │   │   ├── 1d850fa8665601c28696.webp
+│   │   │   ├── 255cd18513fe0c647584.webp
+│   │   │   ├── 27690aef907fafc8de5d.webp
+│   │   │   ├── 27c7613a2f0e8745ae5a.jpg
+│   │   │   ├── 2b7ef07488f82deaa67a.jpg
+│   │   │   ├── 3fb813e72665faa9f8f4.webp
+│   │   │   ├── 422e302533207128ab3b.webp
+│   │   │   ├── 468fdaf0b2ca4cb6cd66.webp
+│   │   │   ├── 55d652418b182c234ed2.webp
+│   │   │   ├── 5d716d17a3cf0b913494.webp
+│   │   │   ├── 5fb7612debf2e8c3364a.webp
+│   │   │   ├── 614834f457ea79a03a4a.webp
+│   │   │   ├── 674f09400ae9f22bd5f0.webp
+│   │   │   ├── 73813509259c73e27e21.webp
+│   │   │   ├── 7559f9af7419a781e1ff.webp
+│   │   │   ├── 83962e629102e4fc9c7e.webp
+│   │   │   ├── 906b11915b104ac8fb05.webp
+│   │   │   ├── a157907ecfc4879e9f3a.webp
+│   │   │   ├── a1c3938bad8e6b6d6315.webp
+│   │   │   ├── a64996421d01a97f512e.webp
+│   │   │   ├── af119bf84e1f34ec91e8.webp
+│   │   │   ├── b84ef1a418ec7841d0ce.webp
+│   │   │   ├── be246e9e2743548114c1.webp
+│   │   │   ├── bebbcead2a6ce669db21.webp
+│   │   │   ├── bf6737907cda93088bee.jpg
+│   │   │   ├── ca9ac8810b7638697d05.jpg
+│   │   │   ├── cce7331fd45f1ac3d9da.webp
+│   │   │   ├── d3082ac7f4afa53b1e43.webp
+│   │   │   ├── d9b331fb639412231fff.webp
+│   │   │   ├── e4a65d60cbdfc8b7bfd0.jpg
+│   │   │   ├── e4fd6f8fd1fc8c1b34b7.webp
+│   │   │   └── ec6ada6d598244ea776e.webp
+│   │   ├── pages/
+│   │   │   ├── page-01.svg
+│   │   │   ├── page-02.svg
+│   │   │   ├── page-03.svg
+│   │   │   ├── page-04.svg
+│   │   │   ├── page-05.svg
+│   │   │   ├── page-06.svg
+│   │   │   ├── page-07.svg
+│   │   │   ├── page-08.svg
+│   │   │   ├── page-09.svg
+│   │   │   ├── page-10.svg
+│   │   │   ├── page-11.svg
+│   │   │   ├── page-12.svg
+│   │   │   ├── page-13.svg
+│   │   │   ├── page-14.svg
+│   │   │   ├── page-15.svg
+│   │   │   ├── page-16.svg
+│   │   │   ├── page-17.svg
+│   │   │   ├── page-18.svg
+│   │   │   ├── page-19.svg
+│   │   │   └── page-20.svg
+│   │   ├── previews/
+│   │   │   ├── page-01.webp
+│   │   │   ├── page-02.webp
+│   │   │   ├── page-03.webp
+│   │   │   ├── page-04.webp
+│   │   │   ├── page-05.webp
+│   │   │   ├── page-06.webp
+│   │   │   ├── page-07.webp
+│   │   │   ├── page-08.webp
+│   │   │   ├── page-09.webp
+│   │   │   ├── page-10.webp
+│   │   │   ├── page-11.webp
+│   │   │   ├── page-12.webp
+│   │   │   ├── page-13.webp
+│   │   │   ├── page-14.webp
+│   │   │   ├── page-15.webp
+│   │   │   ├── page-16.webp
+│   │   │   ├── page-17.webp
+│   │   │   ├── page-18.webp
+│   │   │   ├── page-19.webp
+│   │   │   └── page-20.webp
+│   │   ├── scene/
+│   │   │   └── oak-table.svg
+│   │   ├── index-CU1NRIgG.js
+│   │   └── index-DwhBzupM.css
+│   ├── favicon.svg
+│   ├── index.html
+│   └── THIRD-PARTY-NOTICES.txt
+├── public/
+│   ├── assets/
+│   │   ├── fonts/
+│   │   │   ├── font-01.ttf
+│   │   │   ├── font-02.ttf
+│   │   │   ├── font-03.ttf
+│   │   │   ├── font-04.ttf
+│   │   │   ├── LICENSE-BarlowCondensed.txt
+│   │   │   ├── LICENSE-BodoniModa.txt
+│   │   │   ├── LICENSE-Playfair.txt
+│   │   │   ├── Playfair-Italic-variable.ttf
+│   │   │   └── Playfair-variable.ttf
+│   │   ├── images/
+│   │   │   ├── 05566fbecaa74c93bda6.webp
+│   │   │   ├── 073609b25beedfe7e0be.webp
+│   │   │   ├── 083c41c64bbcde06ad6a.webp
+│   │   │   ├── 0bec9177dd25d9c95d37.webp
+│   │   │   ├── 0d6545e75153416a59b5.webp
+│   │   │   ├── 1451058976fd6bedefd2.webp
+│   │   │   ├── 1d850fa8665601c28696.webp
+│   │   │   ├── 255cd18513fe0c647584.webp
+│   │   │   ├── 27690aef907fafc8de5d.webp
+│   │   │   ├── 27c7613a2f0e8745ae5a.jpg
+│   │   │   ├── 2b7ef07488f82deaa67a.jpg
+│   │   │   ├── 3fb813e72665faa9f8f4.webp
+│   │   │   ├── 422e302533207128ab3b.webp
+│   │   │   ├── 468fdaf0b2ca4cb6cd66.webp
+│   │   │   ├── 55d652418b182c234ed2.webp
+│   │   │   ├── 5d716d17a3cf0b913494.webp
+│   │   │   ├── 5fb7612debf2e8c3364a.webp
+│   │   │   ├── 614834f457ea79a03a4a.webp
+│   │   │   ├── 674f09400ae9f22bd5f0.webp
+│   │   │   ├── 73813509259c73e27e21.webp
+│   │   │   ├── 7559f9af7419a781e1ff.webp
+│   │   │   ├── 83962e629102e4fc9c7e.webp
+│   │   │   ├── 906b11915b104ac8fb05.webp
+│   │   │   ├── a157907ecfc4879e9f3a.webp
+│   │   │   ├── a1c3938bad8e6b6d6315.webp
+│   │   │   ├── a64996421d01a97f512e.webp
+│   │   │   ├── af119bf84e1f34ec91e8.webp
+│   │   │   ├── b84ef1a418ec7841d0ce.webp
+│   │   │   ├── be246e9e2743548114c1.webp
+│   │   │   ├── bebbcead2a6ce669db21.webp
+│   │   │   ├── bf6737907cda93088bee.jpg
+│   │   │   ├── ca9ac8810b7638697d05.jpg
+│   │   │   ├── cce7331fd45f1ac3d9da.webp
+│   │   │   ├── d3082ac7f4afa53b1e43.webp
+│   │   │   ├── d9b331fb639412231fff.webp
+│   │   │   ├── e4a65d60cbdfc8b7bfd0.jpg
+│   │   │   ├── e4fd6f8fd1fc8c1b34b7.webp
+│   │   │   └── ec6ada6d598244ea776e.webp
+│   │   ├── pages/
+│   │   │   ├── page-01.svg
+│   │   │   ├── page-02.svg
+│   │   │   ├── page-03.svg
+│   │   │   ├── page-04.svg
+│   │   │   ├── page-05.svg
+│   │   │   ├── page-06.svg
+│   │   │   ├── page-07.svg
+│   │   │   ├── page-08.svg
+│   │   │   ├── page-09.svg
+│   │   │   ├── page-10.svg
+│   │   │   ├── page-11.svg
+│   │   │   ├── page-12.svg
+│   │   │   ├── page-13.svg
+│   │   │   ├── page-14.svg
+│   │   │   ├── page-15.svg
+│   │   │   ├── page-16.svg
+│   │   │   ├── page-17.svg
+│   │   │   ├── page-18.svg
+│   │   │   ├── page-19.svg
+│   │   │   └── page-20.svg
+│   │   ├── previews/
+│   │   │   ├── page-01.webp
+│   │   │   ├── page-02.webp
+│   │   │   ├── page-03.webp
+│   │   │   ├── page-04.webp
+│   │   │   ├── page-05.webp
+│   │   │   ├── page-06.webp
+│   │   │   ├── page-07.webp
+│   │   │   ├── page-08.webp
+│   │   │   ├── page-09.webp
+│   │   │   ├── page-10.webp
+│   │   │   ├── page-11.webp
+│   │   │   ├── page-12.webp
+│   │   │   ├── page-13.webp
+│   │   │   ├── page-14.webp
+│   │   │   ├── page-15.webp
+│   │   │   ├── page-16.webp
+│   │   │   ├── page-17.webp
+│   │   │   ├── page-18.webp
+│   │   │   ├── page-19.webp
+│   │   │   └── page-20.webp
+│   │   └── scene/
+│   │       └── oak-table.svg
+│   ├── favicon.svg
+│   └── THIRD-PARTY-NOTICES.txt
+├── scripts/
+│   ├── build-notices.mjs
+│   ├── verify-book.mjs
+│   └── verify-content.mjs
+├── src/
+│   ├── components/
+│   │   ├── BookVolume.tsx
+│   │   ├── CoverTurnover.tsx
+│   │   ├── DialogShell.tsx
+│   │   ├── IconButton.tsx
+│   │   ├── InteractiveChart.tsx
+│   │   ├── MagazinePage.tsx
+│   │   ├── PageIndex.tsx
+│   │   ├── PageNavigation.tsx
+│   │   ├── PageTurner.tsx
+│   │   ├── ReaderToolbar.tsx
+│   │   ├── ReferenceDialog.tsx
+│   │   ├── SearchPanel.tsx
+│   │   └── ZoomDialog.tsx
+│   ├── content/
+│   │   ├── magazine.json
+│   │   └── magazine.ts
+│   ├── hooks/
+│   │   ├── useBookGestures.ts
+│   │   ├── useReaderNavigation.ts
+│   │   └── useZoomGestures.ts
+│   ├── styles/
+│   │   ├── desk.css
+│   │   ├── fonts.css
+│   │   ├── global.css
+│   │   ├── interactions.css
+│   │   ├── magazine.css
+│   │   └── tokens.css
+│   ├── types/
+│   │   ├── magazine.ts
+│   │   └── page-flip.d.ts
+│   ├── utils/
+│   │   ├── bookGeometry.ts
+│   │   ├── prepareLatest.ts
+│   │   └── storage.ts
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── vite-env.d.ts
+├── .gitignore
+├── ARQUITETURA.txt
+├── COMECE-AQUI.txt
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── THIRD-PARTY-NOTICES.txt
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts

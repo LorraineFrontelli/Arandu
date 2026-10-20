@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<g id="11 Â· AnÃ¡lise grÃ¡fica I" data-node-id="106:95">
+<rect width="1440" height="1024" fill="white" />
+<text id="ANÃLISE GRÃFICA" data-node-id="106:96" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="64" letter-spacing="1px" font-weight="400"><tspan x="64" y="114.271">ANÁLISE GRÁFICA</tspan></text>
+<text id="ParticipaÃ§Ã£o por classe" data-node-id="106:97" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="28" letter-spacing="0px" font-weight="400"><tspan x="64" y="161.893">Participação por classe</tspan></text>
+<text id="01" data-node-id="106:98" fill="#A60000" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="96" letter-spacing="0px" font-weight="900"><tspan x="1296.8" y="141.9">01</tspan></text>
+<text id="HÃBITOS CULTURAIS 2025" data-node-id="106:99" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="64" y="242.4">HÁBITOS CULTURAIS 2025</tspan></text>
+<text id="Lorem ipsum dolor sit amet, consectetur " data-node-id="106:100" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="20" letter-spacing="0px" font-weight="400"><tspan x="64" y="280.91">A Figura 1 mostra diferenças concretas </tspan><tspan x="64" y="312.91">de participação, relevantes para </tspan><tspan x="64" y="344.91">investigar as oportunidades de contato. </tspan><tspan x="64" y="376.91">Na pesquisa Hábitos Culturais de 2025, </tspan><tspan x="64" y="408.91">com pessoas de 16 a 65 anos, a </tspan><tspan x="64" y="440.91">participação em alguma atividade </tspan><tspan x="64" y="472.91">presencial nos 12 meses anteriores foi </tspan><tspan x="64" y="504.91">de 93% nas classes A/B e 71% nas classes </tspan><tspan x="64" y="536.91">D/E.</tspan></text>
+<text id="3,5Ã" data-node-id="106:101" fill="#A60000" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="128" letter-spacing="0px" font-weight="900"><tspan x="64" y="714.7">3,5×</tspan></text>
+<text id="no cinema: 60% nas classes A/B contra 17" data-node-id="106:102" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="20" letter-spacing="0px" font-weight="400"><tspan x="64" y="760.91">no cinema: 60% nas classes A/B contra </tspan><tspan x="64" y="792.91">17% nas D/E</tspan></text>
+<g id="Bloco" data-node-id="106:103">
+<rect width="922" height="499" transform="translate(464 224)" fill="#F3F2EF" />
+<text id="FIGURA 1 Â· PARTICIPAÃÃO CULTURAL NOS ÃLT" data-node-id="106:104" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="18" letter-spacing="1.1px" font-weight="600"><tspan x="496" y="270.5">FIGURA 1 · PARTICIPAÇÃO CULTURAL NOS ÚLTIMOS 12 MESES</tspan></text>
+<g id="Legenda de grÃ¡fico" data-node-id="106:105">
+<rect id="Cor" data-node-id="I106:105;103:25" x="1127.9" y="260.5" width="12" height="12" fill="#A60000" />
+<text id="Texto" data-node-id="I106:105;103:26" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="1147.9" y="271.639">Classes A/B</tspan></text>
+</g>
+<g id="Legenda de grÃ¡fico_2" data-node-id="106:108">
+<rect id="Cor_2" data-node-id="I106:108;103:25" x="1246.5" y="260.5" width="12" height="12" fill="#C9C2B4" />
+<text id="Texto_2" data-node-id="I106:108;103:26" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="1266.5" y="271.639">Classes D/E</tspan></text>
+</g>
+<g id="Bloco_2" data-node-id="106:111">
+<g id="Bloco_3" data-node-id="106:112">
+<rect width="56" height="268" transform="translate(533 349.2)" fill="#A60000" />
+<text id="93%" data-node-id="106:113" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="547.531" y="343.6">93%</tspan></text>
+</g>
+<g id="Bloco_4" data-node-id="106:114">
+<rect width="56" height="204.6" transform="translate(597 412.6)" fill="#C9C2B4" />
+<text id="71%" data-node-id="106:115" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="613.523" y="407">71%</tspan></text>
+</g>
+<g id="Bloco_5" data-node-id="106:116">
+<rect width="58" height="172.9" transform="translate(751 444.3)" fill="#A60000" />
+<text id="60%" data-node-id="106:117" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="765.789" y="438.7">60%</tspan></text>
+</g>
+<g id="Bloco_6" data-node-id="106:118">
+<rect width="56" height="49" transform="translate(815 568.2)" fill="#C9C2B4" />
+<text id="17%" data-node-id="106:119" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="830.992" y="562.6">17%</tspan></text>
+</g>
+<g id="Bloco_7" data-node-id="106:120">
+<rect width="58" height="109.5" transform="translate(969 507.7)" fill="#A60000" />
+<text id="38%" data-node-id="106:121" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="983.945" y="502.1">38%</tspan></text>
+</g>
+<g id="Bloco_8" data-node-id="106:122">
+<rect width="56" height="28.8" transform="translate(1033 588.4)" fill="#C9C2B4" />
+<text id="10%" data-node-id="106:123" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="1048.52" y="582.8">10%</tspan></text>
+</g>
+<g id="Bloco_9" data-node-id="106:124">
+<rect width="58" height="80.7" transform="translate(1187 536.5)" fill="#A60000" />
+<text id="28%" data-node-id="106:125" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="1201.95" y="530.9">28%</tspan></text>
+</g>
+<g id="Bloco_10" data-node-id="106:126">
+<rect width="56" height="23.1" transform="translate(1251 594.2)" fill="#C9C2B4" />
+<text id="8%" data-node-id="106:127" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="0px" font-weight="600"><tspan x="1269.35" y="588.6">8%</tspan></text>
+</g>
+</g>
+<text id="Alguma atividade" data-node-id="106:128" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="525.642" y="653.339">Alguma atividade</tspan></text>
+<text id="Cinema" data-node-id="106:129" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="782.057" y="653.339">Cinema</tspan></text>
+<text id="Teatro" data-node-id="106:130" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="1005.08" y="653.339">Teatro</tspan></text>
+<text id="Museu" data-node-id="106:131" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="1221.95" y="653.339">Museu</tspan></text>
+<text id="Fonte: FundaÃ§Ã£o ItaÃº; Datafolha, HÃ¡bitos" data-node-id="106:132" fill="#4A4540" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="14" font-style="italic" letter-spacing="0px" font-weight="400"><tspan x="496" y="692.297">Fonte: Fundação Itaú; Datafolha, Hábitos Culturais, 2025. Pessoas de 16 a 65 anos.</tspan></text>
+</g>
+<text id="Sed ut perspiciatis unde omnis iste natu" data-node-id="106:133" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="20" letter-spacing="0px" font-weight="400"><tspan x="464" y="783.91">As diferenças variam </tspan><tspan x="464" y="815.91">conforme a atividade: no </tspan><tspan x="464" y="847.91">cinema, 60% e 17%; no </tspan><tspan x="464" y="879.91">teatro, 38% e 10%;</tspan></text>
+<text id="totam rem aperiam, eaque ipsa quae ab il" data-node-id="106:134" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="20" letter-spacing="0px" font-weight="400"><tspan x="720" y="783.71">nos museus, 28% e 8% </tspan><tspan x="720" y="815.71">(Fundação Itaú; Datafolha, </tspan><tspan x="720" y="847.71">2025). Portanto, a participação </tspan><tspan x="720" y="879.71">em alguma atividade não </tspan><tspan x="720" y="911.71">elimina a desigualdade de </tspan><tspan x="720" y="943.71">acesso a outras experiências.</tspan></text>
+<g id="Box VocÃª sabia?" data-node-id="106:135">
+<rect x="1016.75" y="732.75" width="358.5" height="213.5" rx="23.25" fill="white" />
+<rect x="1016.75" y="732.75" width="358.5" height="213.5" rx="23.25" stroke="#141210" stroke-width="1.5" />
+<text id="TÃ­tulo" data-node-id="I106:135;103:15" fill="#A60000" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="28" font-style="italic" letter-spacing="0px" font-weight="400"><tspan x="1041.5" y="779.494">Você sabia?</tspan></text>
+<text id="Texto_3" data-node-id="I106:135;103:16" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="20" letter-spacing="0px" font-weight="400"><tspan x="1041.5" y="819.21">No teatro, a participação vai de 9% </tspan><tspan x="1041.5" y="851.21">entre quem tem ensino fundamental </tspan><tspan x="1041.5" y="883.21">a 38% entre quem tem ensino </tspan><tspan x="1041.5" y="915.21">superior.</tspan></text>
+</g>
+<g id="NÃºmero de pÃ¡gina" data-node-id="106:138">
+<text id="NÃºmero" data-node-id="I106:138;103:18" fill="#141210" style="white-space: pre" xml:space="preserve" font-family="Playfair" font-size="18" letter-spacing="0px" font-weight="400"><tspan x="1363.8" y="982.639">11</tspan></text>
+</g>
+<g id="BotÃ£o de navegaÃ§Ã£o â 10" data-node-id="106:140">
+<rect x="571.7" y="962.5" width="107" height="41" rx="20.5" fill="#141210" />
+<rect x="571.7" y="962.5" width="107" height="41" rx="20.5" stroke="#F3EEE4" />
+<text id="RÃ³tulo" data-node-id="I106:140;103:20" fill="#F3EEE4" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="588.2" y="989.4">‹ ANTERIOR</tspan></text>
+</g>
+<g id="BotÃ£o de navegaÃ§Ã£o â 03" data-node-id="106:142">
+<rect x="677.6" y="962.5" width="89" height="41" rx="20.5" fill="#141210" />
+<rect x="677.6" y="962.5" width="89" height="41" rx="20.5" stroke="#F3EEE4" />
+<text id="RÃ³tulo_2" data-node-id="I106:142;103:20" fill="#F3EEE4" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="694.1" y="989.4">SUMÁRIO</tspan></text>
+</g>
+<g id="BotÃ£o de navegaÃ§Ã£o â 12" data-node-id="106:144">
+<rect x="771.5" y="962.5" width="99" height="41" rx="20.5" fill="#141210" />
+<rect x="771.5" y="962.5" width="99" height="41" rx="20.5" stroke="#F3EEE4" />
+<text id="RÃ³tulo_3" data-node-id="I106:144;103:20" fill="#F3EEE4" style="white-space: pre" xml:space="preserve" font-family="Barlow Condensed" font-size="16" letter-spacing="1.1px" font-weight="600"><tspan x="788" y="989.4">PRÓXIMA ›</tspan></text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+:root {
+  color-scheme: dark;
+  --desk: #211e1a;
+  --panel: #29251f;
+  --paper: #f3eee4;
+  --muted: #b0a798;
+  --line: #ffffff1c;
+  --red: #a60000;
+  --focus: #e4be76;
+  --ui-font: 'Barlow Condensed', sans-serif;
+  --editorial-font: 'Playfair', Georgia, serif;
+}
