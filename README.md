@@ -34,13 +34,15 @@ O build gera `dist/`, contendo o HTML, CSS, JavaScript, páginas, imagens e font
 
 O projeto já inclui `.github/workflows/deploy.yml`. A publicação acontece na sua conta quando você enviar os arquivos e habilitar o Pages. Nenhum conteúdo foi enviado ao GitHub durante a preparação deste projeto.
 
+O workflow `CI/CD Arandu` executa a CI (`npm ci`, `npm run verify` e `npm run build`) a cada push e pull request para a `main`. A publicação no Pages acontece somente após um push na `main` com a CI aprovada.
+
 1. Entre no GitHub e crie um repositório. Uma opção é chamá-lo `revista-direito-a-cultura`.
 2. Para usar o GitHub Pages no plano gratuito, escolha um repositório público.
 3. Envie os arquivos do projeto. Inclua a pasta oculta `.github`, o arquivo `.gitignore`, `package-lock.json` e todos os recursos de `public/`.
 4. Não envie `node_modules/`. A pasta `dist/` também não precisa ser enviada: o workflow a gera automaticamente.
 5. No repositório, abra **Settings → Pages**.
 6. Em **Build and deployment → Source**, escolha **GitHub Actions**.
-7. Abra **Actions → Publicar revista no GitHub Pages**. Aguarde o build e a publicação terminarem. Se o primeiro envio aconteceu antes de configurar o Pages, execute **Run workflow** nessa tela.
+7. Abra **Actions → CI/CD Arandu**. Aguarde a CI, o build e a publicação terminarem. Se o primeiro envio aconteceu antes de configurar o Pages, abra a execução e use **Re-run failed jobs**.
 8. O link público aparece no resultado da etapa de publicação e em **Settings → Pages**. Ele normalmente terá o formato `https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/`.
 
 Se preferir enviar pelo terminal do VS Code, substitua `SEU_USUARIO` e o nome do repositório pelos valores da sua conta:
@@ -126,7 +128,7 @@ Os diálogos usam o comportamento modal nativo, retornam o foco ao controle ante
 | SVG com texto | Geometria, recortes, vetores e posições de texto exportados do original. |
 | Pointer Events | Ampliação, deslocamento e gesto de pinça nas visualizações ampliadas. |
 | Lucide React | Ícones apenas na interface adicional de leitura. |
-| GitHub Actions | Build e publicação automática da pasta `dist`. |
+| GitHub Actions | CI em push e pull request, e publicação automática da pasta `dist` no Pages após push na `main`. |
 
 As fontes estão incluídas localmente: Playfair variável normal e itálica, Barlow Condensed nos pesos usados e Bodoni Moda. As licenças das fontes estão em `public/assets/fonts/`.
 
